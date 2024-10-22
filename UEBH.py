@@ -1,7 +1,10 @@
 import random
 import GUI
+from GUI import Storyline
 
-window = GUI.Win()
+window = GUI.Win(False)
+
+story = Storyline()
 
 
 def attack_tower(tower2, coordinates1):
@@ -16,7 +19,8 @@ def attack_tower(tower2, coordinates1):
 def get_build_options(d, t):
     options = []
     if any(d in i for i in t):
-        print("Die:" + str(d))
+        # print("Die:" + str(d))
+        story.write_line("Die:" + str(d))
         for r in range(len(t)):
             for c in range(len(t[r])):
                 if t[r][c] == d:
@@ -34,7 +38,8 @@ def get_build_options(d, t):
                             options.append([r + 1, c])
 
     else:
-        print("New num:" + str(d))
+        # print("New num:" + str(d))
+        story.write_line("New num:" + str(d))
         for r in range(len(t)):
             for c in range(len(t[r])):
                 if t[r][c] == 0:
@@ -55,6 +60,7 @@ def get_build_options(d, t):
 
                     if available:
                         options.append([r, c])
+
     return options
 
 
@@ -70,10 +76,11 @@ class UEBH():
         self.time_track = ["E", " ", "!", "E", " ", "!", "E", " ", "!", "E", " ", "!", "E", "D"]
         self.time_track_xy = [[602, 41], [583, 41], [583, 57], [583, 76], [602, 85], [621, 86], [621, 103], [602, 107],
                               [583, 119], [602, 129], [621, 138], [621, 157], [602, 164], [583, 167]]
-        self.box = [0, 1, 2, 3, 4, 5]
+        self.search_options = [0, 1, 2, 3, 4, 5]
+        self.build_options = None
         self.grid = []
         self.beast_attack_range = []
-        self.build_options = None
+
 
     def set_build_options(self, tn):
         t, coordanates = self.village.towers[tn]
@@ -81,10 +88,12 @@ class UEBH():
 
     def rest(self):
         if self.player.hit_points > 8:
-            print("HP= 10")
+            # print("HP= 10")
+            story.write_line("HP= 10")
             self.player.hit_points = 10
         else:
-            print(2 * "HP++")
+            # print(2 * "HP++")
+            story.write_line(str(2 * "HP++"))
             for i in range(2):
                 window.check_box(self.player.HP_Coordinates[self.player.hit_points + i], "X", "green")
             self.player.increase_hp(2)
@@ -106,33 +115,40 @@ class UEBH():
                 t_name = "Southern Tower"
             else:
                 t_name = "South Western Tower"
-            print("The " + area2.tb, " is attacking the " + t_name)
+            # print("The " + area2.tb, " is attacking the " + t_name)
+            story.write_line("".join(["The " + area2.tb, " is attacking the " + t_name]))
             if self.village.towers_built[t_name]:
                 tower, coordinates = self.village.towers[t_name]
                 die = random.randint(1, 6)
                 if die == 2:
                     self.village.towers[t_name] = attack_tower(tower, coordinates), coordinates
-                    print("The " + t_name + "took a hit!")
+                    # print("The " + t_name + "took a hit!")
+                    story.write_line("".join(["The " + t_name + "took a hit!"]))
                 elif die in [3, 4, 5]:
                     for i in range(2):
                         self.village.towers[t_name] = attack_tower(tower, coordinates), coordinates
-                    print("The " + t_name + "took two hit's!")
+                    # print("The " + t_name + "took two hit's!")
+                    story.write_line("".join(["The " + t_name + "took two hit's!"]))
                 elif die == 6:
                     for i in range(len(tower)):
                         for j in range(len(tower[i])):
                             if not tower[i][j] == 7:
                                 tower[i][j] = 0
                                 window.check_box(coordinates[i][j], "X", "white")
-                    print("The " + t_name + "was destroyed!")
+                    # print("The " + t_name + "was destroyed!")
+                    story.write_line("".join(["The " + t_name + "was destroyed!"]))
                     self.village.towers[t_name] = (tower, coordinates)
                     self.village.towers_built[t_name] = False
                 else:
-                    print("The " + t_name + "took no damage")
+                    # print("The " + t_name + "took no damage")
+                    story.write_line("".join(["The " + t_name + "took no damage"]))
 
                 for i in tower:
-                    print(i)
+                    story.write_line(i)
             else:
-                print("A hut was destroyed!")
+                # print("A hut was destroyed!")
+                story.write_line("A hut was destroyed!")
+
                 for i in range(1, 9):
                     not_destroyed, coordinates = self.village.huts[i]
                     if not_destroyed:
@@ -150,7 +166,11 @@ class UEBH():
                 self.Halebeard_Peak.event.append(i)
                 if (
                         i == "Madness") and "Foul Weather" in self.Halebeard_Peak.event and not self.Halebeard_Peak.tb_defeated:
-                    print(
+                    # print(
+                    #     "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
+                    #     "this region is overcome with rage and immediately descends into the valley to assault the "
+                    #     "village.")
+                    story.write_line(
                         "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
                         "this region is overcome with rage and immediately descends into the valley to assault the "
                         "village.")
@@ -159,7 +179,11 @@ class UEBH():
                 self.Coastal_Caverns.event.append(i)
                 if (
                         i == "Madness") and "Foul Weather" in self.Coastal_Caverns.event and not self.Coastal_Caverns.tb_defeated:
-                    print(
+                    # print(
+                    #     "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
+                    #     "this region is overcome with rage and immediately descends into the valley to assault the "
+                    #     "village.")
+                    story.write_line(
                         "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
                         "this region is overcome with rage and immediately descends into the valley to assault the "
                         "village.")
@@ -168,7 +192,11 @@ class UEBH():
                 self.The_Scar.event.append(i)
                 if (
                         i == "Madness") and "Foul Weather" in self.The_Scar.event and not self.The_Scar.tb_defeated:
-                    print(
+                    # print(
+                    #     "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
+                    #     "this region is overcome with rage and immediately descends into the valley to assault the "
+                    #     "village.")
+                    story.write_line(
                         "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
                         "this region is overcome with rage and immediately descends into the valley to assault the "
                         "village.")
@@ -194,7 +222,8 @@ class UEBH():
                 self.player.determination = -1
                 die1 = random.randint(1, 6)
                 die2 = random.randint(1, 6)
-                print(" New role DP -1 ")
+                # print(" New role DP -1 ")
+                story.write_line(" New role DP -1 ")
 
         return [die1, die2]
 
@@ -241,7 +270,8 @@ class UEBH():
 
     def build(self, tn, act):
         filled = True
-        print(tn)
+        # print(tn)
+        story.write_line(tn)
         t, coordinates = self.village.towers[tn]
         d = self.die
         options = self.build_options
@@ -251,12 +281,14 @@ class UEBH():
 
         tower_coordinate = coordinates[r][c]
         window.check_box(tower_coordinate, str(d), "black")
-        GUI.update_window()
 
         t[r][c] = d
         self.village.towers[tn] = (t, coordinates)
-        print("---------------------")
-        for i in t: print(i)
+        story.write_line("---------------------")
+        # print("---------------------")
+        for i in t:
+            # print(i)
+            story.write_line(i)
 
         d = self.roll_die()
         d = d[0]
@@ -264,7 +296,8 @@ class UEBH():
 
         if not options:
             self.village.towers_built[tn] = True
-            print("No available blocks.\n=======================")
+            # print("No available blocks.\n=======================")
+            story.write_line("No available blocks.\n=======================")
             for r1 in range(len(t)):
                 for c1 in range(len(t[r])):
                     if t[r1][c1] == 0:
@@ -272,7 +305,8 @@ class UEBH():
                         window.check_box(tower_coordinate, "X", "black")
                         filled = False
             if filled:
-                print("DP++")
+                # print("DP++")
+                story.write_line("DP++")
                 self.player.determination += 1
                 window.check_box(self.player.determination_Coordinates[self.player.determination], "0", "blue")
 
@@ -281,7 +315,8 @@ class UEBH():
             return True, t
 
         else:
-            print('A avalabel blocks:\n' + str(options))
+            # print('A avalabel blocks:\n' + str(options))
+            story.write_line("".join(['A avalabel blocks:\n' + str(options)]))
             self.die = d
         self.build_options = options
         return False, t
@@ -303,23 +338,27 @@ class UEBH():
         while beast_hp2 > 0:
             die1 = self.roll_die()
             if die1[0] == 6 and die1[1] == 6:
-                print("CRITICAL HIT! +1 additional damage to beast")
+                # print("CRITICAL HIT! +1 additional damage to beast")
+                story.write_line("CRITICAL HIT! +1 additional damage to beast")
                 critical_hit = 1
                 self.player.increase_determination_pt()
             else:
                 critical_hit = 0
             for d in die1:
                 if d in attack_range2:
-                    print("attack beast")
+                    # print("attack beast")
+                    story.write_line("attack beast")
 
                     beast_hp2 -= 1 + critical_hit
                 elif d in beast_attack_range2:
-                    print("take damage")
+                    # print("take damage")
+                    story.write_line("take damage")
                     self.player.hit_points -= 1
                     xy = self.player.HP_Coordinates[self.player.hit_points]
                     window.check_box(xy, "X", "black")
                     if self.player.hit_points == 1:
-                        print("DP++")
+                        # print("DP++")
+                        story.write_line("DP++")
                         self.player.determination += 1
                         window.check_box(self.player.determination_Coordinates[self.player.determination], "0", "blue")
 
@@ -329,13 +368,19 @@ class UEBH():
         if self.player.hit_points < 1:
             xy = self.player.HP_Coordinates[self.player.hit_points]
             window.check_box(xy, "X", "black")
-            print("Your strength evaporates and you slump to the ground in defeat. The shock of the final blow is,\n "
-                  "surprisingly, not what draws your focus. It is the relief you feel. For the first time in what must be \n"
-                  "years the tension in your back fades and a warm serenity washes over you as the world turns black")
+            # print("Your strength evaporates and you slump to the ground in defeat. The shock of the final blow is,
+            # \n " "surprisingly, not what draws your focus. It is the relief you feel. For the first time in what
+            # must be \n" "years the tension in your back fades and a warm serenity washes over you as the world
+            # turns black")
+            story.write_line(
+                "Your strength evaporates and you slump to the ground in defeat. The shock of the final blow is,\n "
+                "surprisingly, not what draws your focus. It is the relief you feel. For the first time in what must be \n"
+                "years the tension in your back fades and a warm serenity washes over you as the world turns black")
             return False
 
         else:
-            print("Victory")
+            # print("Victory")
+            story.write_line("Victory")
             return True
 
     def combat_tb(self, area1):
@@ -363,10 +408,11 @@ class UEBH():
         if win:
             if self.village.huts == 0:
                 score += 50
-            score += 5 * (14 - self.day)
+            score += 5 * self.day
             score += 2 * self.player.hit_points
             score += (18 - self.village.doubt)
-        print("Your score is " + str(score))
+        # print("Your score is " + str(score))
+        story.write_line("".join(["Your score is " + str(score)]))
         return score
 
     def add_doubt(self, n):
@@ -374,16 +420,21 @@ class UEBH():
         for d in range(self.village.doubt):
             if d < 18:
                 window.check_box(self.village.xy_doubt[d], "X", "black")
-        print("Doubt increased by " + str(n))
+        # print("Doubt increased by " + str(n))
+        story.write_line("".join(["Doubt increased by ", str(n)]))
         if self.village.doubt >= 18:
-            GUI.update_window()
 
             self.calc_score(False)
-            print("You have lost the villagers’ trust")
-            print("A crowd gathers in the village square. The knot in your stomach grows as you pick out the faces of "
-                  "your most vocal critics among the mob. Under a hail of stones you are chased out of the village "
-                  "into the unforgiving wilderness. You hear the thunder of hooves as a contingent of the Blazing "
-                  "Star Regiment races into the valley. Injured as you are, you realize escape is impossible.")
+            # print("You have lost the villagers’ trust")
+            # print("A crowd gathers in the village square. The knot in your stomach grows as you pick out the faces of "
+            #       "your most vocal critics among the mob. Under a hail of stones you are chased out of the village "
+            #       "into the unforgiving wilderness. You hear the thunder of hooves as a contingent of the Blazing "
+            #       "Star Regiment races into the valley. Injured as you are, you realize escape is impossible.")
+            story.write_line(
+                "You have lost the villagers’ trust.\nA crowd gathers in the village square. The knot in your stomach grows as you pick out the faces of "
+                "your most vocal critics among the mob. Under a hail of stones you are chased out of the village "
+                "into the unforgiving wilderness. You hear the thunder of hooves as a contingent of the Blazing "
+                "Star Regiment races into the valley. Injured as you are, you realize escape is impossible.")
             return True
         else:
             return False
@@ -402,27 +453,30 @@ class UEBH():
 
     def search_area(self, area, action_num, die):
         grid_num = area.grids_searched
-        self.box.remove(action_num)
+        self.search_options.remove(action_num)
         area.searchBox[grid_num][action_num] = die
         coordinates2 = area.searchBox_coordinates[grid_num][action_num]
 
         window.check_box(coordinates2, str(die), "black")
-        print(
-            "Grid:\n " + str(area.searchBox[grid_num][:3]) + "\n-" + str(area.searchBox[grid_num][3:]))
-        GUI.update_window()
+        # print(
+        #     "Grid:\n " + str(area.searchBox[grid_num][:3]) + "\n-" + str(area.searchBox[grid_num][3:]))
+        story.write_line(
+            str("Grid:\n " + str(area.searchBox[grid_num][:3]) + "\n-" + str(area.searchBox[grid_num][3:])))
 
-        if not 0 in area.searchBox[grid_num]:
-            print('Grid complete.')
+        if not (0 in area.searchBox[grid_num]):
+            # print('Grid complete.')
+            story.write_line('Grid complete.')
             self.player.search_range -= 1
-            print(self.player.search_range)
+            # print(self.player.search_range)
+            story.write_line(str(self.player.search_range))
             area.grids_searched += 1
-            self.box = [0, 1, 2, 3, 4, 5]
+            self.search_options = [0, 1, 2, 3, 4, 5]
             if area.grids_searched == 6:
                 area.complete = True
             result = area.searchBox[grid_num][0] * 100 + area.searchBox[grid_num][1] * 10 + area.searchBox[grid_num][
                 2] - area.searchBox[grid_num][3] * 100 - area.searchBox[grid_num][4] * 10 - area.searchBox[grid_num][5]
             if self.player.search_range == 0:
-                print("Done")
+                story.write_line("Search complete.")
                 return True, result, area.searchBox[grid_num]
             else:
                 return False, result, area.searchBox[grid_num]
@@ -543,24 +597,35 @@ class UEBH():
 
     def end_game(self):
         if self.Coastal_Caverns.tb_defeated and self.The_Scar.tb_defeated and self.Halebeard_Peak.tb_defeated:
-            GUI.update_window()
             self.calc_score(True)
-            print("You have defeated all three Terrible Beasts - Win")
-            print("A calm wind carries the distant sound of brass horns as the Blazing Star Regiment begins its final "
-                  "approach. A solemn crowd gathers in the village square to watch the proceedings. You have proven "
-                  "your worth. The village elders nod to each other. There is a sense of nervousness and excitement "
-                  "in the crowd. Sipporos leads you into a nearby hut and closes the heavy door flap. In the darkness "
-                  "you hear the footsteps of armored soldiers outside the hut.")
+            # print("You have defeated all three Terrible Beasts - Win")
+            # print("A calm wind carries the distant sound of brass horns as the Blazing Star Regiment begins its final "
+            #       "approach. A solemn crowd gathers in the village square to watch the proceedings. You have proven "
+            #       "your worth. The village elders nod to each other. There is a sense of nervousness and excitement "
+            #       "in the crowd. Sipporos leads you into a nearby hut and closes the heavy door flap. In the darkness "
+            #       "you hear the footsteps of armored soldiers outside the hut.")
+            story.write_line(
+                "You have defeated all three Terrible Beasts - Win.\nA calm wind carries the distant sound of brass horns as the Blazing Star Regiment begins its final "
+                "approach. A solemn crowd gathers in the village square to watch the proceedings. You have proven "
+                "your worth. The village elders nod to each other. There is a sense of nervousness and excitement "
+                "in the crowd. Sipporos leads you into a nearby hut and closes the heavy door flap. In the darkness "
+                "you hear the footsteps of armored soldiers outside the hut.")
             return True
 
         if self.time_track[self.day] == "D":
             self.calc_score(False)
-            print("You have run out of time - Loss")
-            print("The sound of soldiers and horses fills the air as the Blazing Star Regiment assembles outside the "
-                  "village walls. A nervous crowd gathers in the village square to watch the proceedings. The elders "
-                  "consider you to have broken your promise. Furious that you have wasted their time and endangered "
-                  "the lives of the entire village, they cast you out of the village and into the waiting hands of "
-                  "the Blazing Star Regiment. Escape is impossible")
+            # print("You have run out of time - Loss")
+            # print("The sound of soldiers and horses fills the air as the Blazing Star Regiment assembles outside the "
+            #       "village walls. A nervous crowd gathers in the village square to watch the proceedings. The elders "
+            #       "consider you to have broken your promise. Furious that you have wasted their time and endangered "
+            #       "the lives of the entire village, they cast you out of the village and into the waiting hands of "
+            #       "the Blazing Star Regiment. Escape is impossible")
+            story.write_line(
+                "You have run out of time - Loss.\nThe sound of soldiers and horses fills the air as the Blazing Star Regiment assembles outside the "
+                "village walls. A nervous crowd gathers in the village square to watch the proceedings. The elders "
+                "consider you to have broken your promise. Furious that you have wasted their time and endangered "
+                "the lives of the entire village, they cast you out of the village and into the waiting hands of "
+                "the Blazing Star Regiment. Escape is impossible")
             return True
         return False
 

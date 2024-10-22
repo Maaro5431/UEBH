@@ -1,6 +1,6 @@
 import numpy as np
 import GUI
-from Game import UEBH_env
+from Game_env import UEBH_env
 from tf_agents.environments import tf_py_environment
 
 env = UEBH_env()

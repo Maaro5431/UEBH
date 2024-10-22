@@ -1,9 +1,7 @@
 import pygame
 import sys
-
-
-def update_window():
-    pygame.display.update()
+import datetime
+import fileinput
 
 
 def get_py_game_event():
@@ -36,23 +34,40 @@ def get_input():
                     return 2
 
 
+class Storyline:
+    def __init__(self):
+        self.f = open("Storyline.txt", "a")
+        self.current_time = datetime.datetime.now()
+        self.f.write("\n*************" + str(self.current_time) + "*************")
+
+    def write_line(self, lines):
+        self.f.write('\n' + str(lines))
+
+    def close(self):
+        self.f.close()
+
+
 class Win():
 
-    def __init__(self):
-        pygame.init()
-        pygame.font.init()
-        self.font = pygame.font.SysFont("Arial", 15)
-        self.window_width = 1542  # / 1.5
-        self.window_height = 899  # / 1.5
-        self.window = pygame.display.set_mode((self.window_width, self.window_height))
-        bg_image = pygame.image.load("C:/Users/Maaro/Desktop/Hons Project/UEBH/Board.png")
+    def __init__(self, switch):
+        self.switch = switch
+        if switch:
+            pygame.init()
+            pygame.font.init()
+            self.font = pygame.font.SysFont("Arial", 15)
+            self.window_width = 1542  # / 1.5
+            self.window_height = 899  # / 1.5
+            self.window = pygame.display.set_mode((self.window_width, self.window_height))
+            bg_image = pygame.image.load("C:/Users/Maaro/Desktop/Hons Project/UEBH/Board.png")
 
-        self.window.blit(bg_image, (0, 0))
+            self.window.blit(bg_image, (0, 0))
 
     def reset(self):
-        self.window = pygame.display.set_mode((self.window_width, self.window_height))
-        bg_image = pygame.image.load("C:/Users/Maaro/Desktop/Hons Project/UEBH/Board.png")
-        self.window.blit(bg_image, (0, 0))
+        if self.switch:
+            self.window = pygame.display.set_mode((self.window_width, self.window_height))
+            bg_image = pygame.image.load("C:/Users/Maaro/Desktop/Hons Project/UEBH/Board.png")
+            self.window.blit(bg_image, (0, 0))
+
 
     def mark(self):
         for event in pygame.event.get():
@@ -63,10 +78,10 @@ class Win():
                 pygame.display.update()
 
     def check_box(self, coordinates, value, colour):
-
-        txt = self.font.render(value, True, colour)
-        self.window.blit(txt, (coordinates[0], coordinates[1]))
-        pygame.display.flip()
+        if self.switch:
+            txt = self.font.render(value, True, colour)
+            self.window.blit(txt, (coordinates[0], coordinates[1]))
+            pygame.display.flip()
 
     def input_number_box(self):
         initial_text = ''
