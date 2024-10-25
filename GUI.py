@@ -3,13 +3,11 @@ import sys
 import datetime
 import fileinput
 
+import pygame
 
-def get_py_game_event():
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            return False
-        else:
-            return True
+
+def update_window():
+    pygame.display.flip()
 
 
 def close_win():
@@ -67,7 +65,6 @@ class Win():
             self.window = pygame.display.set_mode((self.window_width, self.window_height))
             bg_image = pygame.image.load("C:/Users/Maaro/Desktop/Hons Project/UEBH/Board.png")
             self.window.blit(bg_image, (0, 0))
-
 
     def mark(self):
         for event in pygame.event.get():

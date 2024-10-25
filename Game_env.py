@@ -56,7 +56,7 @@ class UEBH_env(py_environment.PyEnvironment):
         self.task_complete = True
         self.player = self.game.player
         self.village = self.game.village
-        self.die = [0,0]
+        self.die = [0, 0]
         self.action_name = ''
         self.illegal_act_count = 0
         self._state = 0
@@ -90,7 +90,8 @@ class UEBH_env(py_environment.PyEnvironment):
         elif self.action_name == "build":
 
             return np.array(
-                [self._state, self.player.hit_points, self.village.doubt, self.die[0], self.die[1], len(self.game.build_options),
+                [self._state, self.player.hit_points, self.village.doubt, self.die[0], self.die[1],
+                 len(self.game.build_options),
                  task],
                 dtype=np.int32)
             # return tf.constant(
@@ -130,7 +131,7 @@ class UEBH_env(py_environment.PyEnvironment):
                 self.first_search()
                 # print("R2")
                 return ts.transition(
-                    self.get_observations(), 1, discount=1.0)
+                    self.get_observations(), 8, discount=1.0)
 
             elif act in self.game.search_options:
                 reward += self.search(act)
@@ -145,7 +146,7 @@ class UEBH_env(py_environment.PyEnvironment):
                         story.write_line("Remaining die:" + str(self.die[0]))
                     # print("R3")
                     return ts.transition(
-                        self.get_observations(), 3, discount=1.0)
+                        self.get_observations(), 15, discount=1.0)
 
             else:
                 # print("R4")
@@ -155,19 +156,21 @@ class UEBH_env(py_environment.PyEnvironment):
             if not self.task_complete:
                 if (act - 6) <= len(self.game.build_options) - 1:
                     self.task_complete, grid = self.game.build(self.current_tower, act - 6)
+                    if len(self.game.build_options) == 1:
+                        self.task_complete, grid = self.game.build(self.current_tower, 0)
                     self.grid = grid
                     if not (True in self.village.towers_built.values()):
                         self.village.approval()
                     if not self.task_complete:
                         # print("R5")
                         return ts.transition(
-                            self.get_observations(), 3, discount=1.0)
+                            self.get_observations(), 5, discount=1.0)
                     else:
                         contains_zero = any(0 in row for row in grid)
                         if contains_zero:
                             reward -= sum(row.count(0) for row in grid)
                         else:
-                            reward += 10
+                            reward += 15
 
                 else:
                     # print("R6")
@@ -186,30 +189,17 @@ class UEBH_env(py_environment.PyEnvironment):
                 self.task_complete = False
                 print("R7")
                 return ts.transition(
-                    self.get_observations(), 3, discount=1.0)
+                    self.get_observations(), 8, discount=1.0)
 
         elif act == 27:
             if self.player.hit_points == 10:
-                reward = -1
+                reward = -10
             self.game.rest()
 
         if illegal_act:
-            if self.illegal_act is None or self.illegal_act != act:
-                self.illegal_act = act
-                return ts.transition(
-                    self.get_observations(), -1, discount=1.0)
-            else:
-                if self.illegal_act_count == 10:
-                    self.illegal_act_count = 0
-                    self._episode_ended = True
-                    story.write_line(
-                        "XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX")
-                    print("R7")
-                    return ts.termination(
-                        self.get_observations(), -50)
-                else:
-                    self.illegal_act_count += 1
-                    return ts.transition(self.get_observations(), -3, discount=1.0)
+            return self.illegal_move(act)
+        else:
+            self.illegal_act_count = 0
 
         # print("HP: " + str(self.player.hit_points) + "\nDoubt: " + str(self.village.doubt))
         story.write_line("HP: " + str(self.player.hit_points) + "\nDoubt: " + str(self.village.doubt))
@@ -225,7 +215,7 @@ class UEBH_env(py_environment.PyEnvironment):
             win.check_box(self.game.time_track_xy[self._state], "X", "black")
 
         if self._episode_ended or self._state == 14:
-            score = self.game.calc_score(False)
+            score = self.game.calc_score(self.game.end_game())
             reward += score + 50
             # print("R8")
             # print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXX GAME OVER XXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -234,11 +224,30 @@ class UEBH_env(py_environment.PyEnvironment):
                 self.get_observations(),
                 reward)
         else:
-            reward += (2 * self._state) - self.village.doubt
+            reward += 10 + (2 * self._state) - self.village.doubt
             # print("R9")
             return ts.transition(
                 self.get_observations(),
                 reward, discount=1.0)
+
+    def illegal_move(self, act):
+        if self.illegal_act is None or self.illegal_act != act:
+            self.illegal_act = act
+            return ts.transition(
+                self.get_observations(), 0, discount=1.0)
+        else:
+            if self.illegal_act_count == 5:
+                self.illegal_act_count = 0
+                self._episode_ended = True
+                reward = -100 + self.game.calc_score(False)
+                story.write_line(
+                    "XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX")
+                print("R7")
+                return ts.termination(
+                    self.get_observations(), reward=reward)
+            else:
+                self.illegal_act_count += 1
+                return ts.transition(self.get_observations(), -3, discount=1.0)
 
     def first_search(self):
         for i in [self.game.The_Scar, self.game.Coastal_Caverns, self.game.Halebeard_Peak]:
@@ -274,13 +283,14 @@ class UEBH_env(py_environment.PyEnvironment):
 
         return ts.transition(
             np.array(self.get_observations(),
-                     dtype=np.int32), 1, discount=1.0)
+                     dtype=np.int32), 8, discount=1.0)
 
     def search(self, act):
         reward = 0
         self.task_complete, result, grid = self.game.search_area(self.area, act, self.die[0])
         if grid.count(0) == 1:
             self.task_complete, result, grid = self.game.search_area(self.area, grid.index(0), self.die[1])
+            self.die[1] = 0
         self.grid = grid
         # self.grid_options = np.concatenate(grid)
         if not (result is None):
@@ -288,6 +298,7 @@ class UEBH_env(py_environment.PyEnvironment):
             # print("Result:" + str(s_result))
             story.write_line("Result:" + str(s_result))
             if s_result == "Lair Found":
+                reward += 10
                 # print("\nLair Found " + i.tb)
                 # print("DP++")
                 story.write_line("Lair Found " + str(self.area.tb) + "\nDP++")
@@ -301,6 +312,7 @@ class UEBH_env(py_environment.PyEnvironment):
                     self._episode_ended = True
 
             elif s_result == "Track Beast":
+                reward += 5
                 # print("\nTrack Beast")
                 story.write_line("Track Beast")
 
@@ -319,6 +331,7 @@ class UEBH_env(py_environment.PyEnvironment):
                         self._episode_ended = True
 
             elif s_result == "Encounter":
+                reward += 3
                 story.write_line("Encounter")
                 beast_lv = self.game.encounter_chart(result)
 
@@ -330,12 +343,14 @@ class UEBH_env(py_environment.PyEnvironment):
                 story.write_line("A " + encounter + " is attacking!")
 
                 if self.game.combat(self.game.beast_hp, self.game.beast_attack_range):
+                    reward += 5
                     # print("You have slayed the " + encounter + "\n")
                     story.write_line("You have slayed the " + encounter + "\n")
                 else:
                     self._episode_ended = True
 
             elif s_result == "Lair Found and Ambush!":
+                reward += 15
                 # print("\nLair Found and Ambush! " + self.area.tb)
                 # print("DP++")
                 story.write_line("\nLair Found and Ambush! " + str(self.area.tb) + "\nDP++")
@@ -345,7 +360,7 @@ class UEBH_env(py_environment.PyEnvironment):
                               "blue")
                 self.player.attack_range = [6, 5]
                 if self.game.combat_tb(self.area):
-                    reward += 10
+                    reward += 20
                 else:
                     self._episode_ended = True
 

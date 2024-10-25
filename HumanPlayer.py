@@ -5,7 +5,7 @@ from tf_agents.environments import tf_py_environment
 
 env = UEBH_env()
 tf_env = tf_py_environment.TFPyEnvironment(env)
-window = GUI.Win()
+window = GUI.Win(True)
 
 running = True
 action_spec = tf_env.action_spec()
@@ -29,11 +29,11 @@ while not time_step.is_last():
         else:
             print("Value not in range")
 
+
     task_act = np.array(index, dtype=np.int32)
     time_step = tf_env._step(task_act)
-
-    cumulative_reward += time_step.reward
     GUI.update_window()
+    cumulative_reward += time_step.reward
 
 GUI.close_win()
 

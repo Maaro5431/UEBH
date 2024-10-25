@@ -7,56 +7,63 @@ window = GUI.Win(False)
 story = Storyline()
 
 
-def attack_tower(tower2, coordinates1):
-    for i in range(len(tower2)):
-        for j in range(len(tower2[i])):
-            if not (tower2[i][j] == 0 or tower2[i][j] == 7):
-                tower2[i][j] = 0
+def attack_tower(tower, coordinates1):
+    rows = len(tower)
+    for i in range(rows):
+        cols = len(tower[i])
+        for j in range(cols):
+            if tower[i][j] not in (0, 7):
+                tower[i][j] = 0
                 window.check_box(coordinates1[i][j], "X", "red")
-                return tower2
+                return tower
 
 
-def get_build_options(d, t):
+def get_build_options(die, tower):
     options = []
-    if any(d in i for i in t):
+    if any(die in i for i in tower):
         # print("Die:" + str(d))
-        story.write_line("Die:" + str(d))
-        for r in range(len(t)):
-            for c in range(len(t[r])):
-                if t[r][c] == d:
-                    if not (c == (len(t[r]) - 1)):
-                        if t[r][c + 1] == 0:
-                            options.append([r, c + 1])
-                    if not c == 0:
-                        if t[r][c - 1] == 0:
-                            options.append([r, c - 1])
-                    if not r == 0:
-                        if t[r - 1][c] == 0:
-                            options.append([r - 1, c])
-                    if not r == len(t) - 1:
-                        if t[r + 1][c] == 0:
-                            options.append([r + 1, c])
+        story.write_line("Die:" + str(die))
+        rows = len(tower)
+        for r in range(rows):
+            cols = len(tower[r])
+            for c in range(cols):
+                if tower[r][c] == die:
+                    # Check right
+                    if c < cols - 1 and tower[r][c + 1] == 0:
+                        options.append([r, c + 1])
+                    # Check left
+                    if c > 0 and tower[r][c - 1] == 0:
+                        options.append([r, c - 1])
+                    # Check up
+                    if r > 0 and tower[r - 1][c] == 0:
+                        options.append([r - 1, c])
+                    # Check down
+                    if r < rows - 1 and tower[r + 1][c] == 0:
+                        options.append([r + 1, c])
+
 
     else:
         # print("New num:" + str(d))
-        story.write_line("New num:" + str(d))
-        for r in range(len(t)):
-            for c in range(len(t[r])):
-                if t[r][c] == 0:
+        story.write_line("New num:" + str(die))
+        rows = len(tower)
+        for r in range(rows):
+            cols = len(tower[r])
+            for c in range(cols):
+                if tower[r][c] == 0:
                     available = True
 
-                    if not (c == len(t[r]) - 1):
-                        if not t[r][c + 1] in [0, 7]:
-                            available = False
-                    if not c == 0:
-                        if not t[r][c - 1] in [0, 7]:
-                            available = False
-                    if not r == 0:
-                        if not t[r - 1][c] in [0, 7]:
-                            available = False
-                    if not r == len(t) - 1:
-                        if not t[r + 1][c] in [0, 7]:
-                            available = False
+                    # Check right
+                    if c < cols - 1 and tower[r][c + 1] not in [0, 7]:
+                        available = False
+                    # Check left
+                    elif c > 0 and tower[r][c - 1] not in [0, 7]:
+                        available = False
+                    # Check up
+                    elif r > 0 and tower[r - 1][c] not in [0, 7]:
+                        available = False
+                    # Check down
+                    elif r < rows - 1 and tower[r + 1][c] not in [0, 7]:
+                        available = False
 
                     if available:
                         options.append([r, c])
@@ -130,11 +137,14 @@ class UEBH():
                     # print("The " + t_name + "took two hit's!")
                     story.write_line("".join(["The " + t_name + "took two hit's!"]))
                 elif die == 6:
-                    for i in range(len(tower)):
-                        for j in range(len(tower[i])):
-                            if not tower[i][j] == 7:
+                    rows = len(tower)
+                    for i in range(rows):
+                        cols = len(tower[i])
+                        for j in range(cols):
+                            if tower[i][j] != 7:
                                 tower[i][j] = 0
                                 window.check_box(coordinates[i][j], "X", "white")
+
                     # print("The " + t_name + "was destroyed!")
                     story.write_line("".join(["The " + t_name + "was destroyed!"]))
                     self.village.towers[t_name] = (tower, coordinates)
@@ -149,8 +159,7 @@ class UEBH():
                 # print("A hut was destroyed!")
                 story.write_line("A hut was destroyed!")
 
-                for i in range(1, 9):
-                    not_destroyed, coordinates = self.village.huts[i]
+                for i, (not_destroyed, coordinates) in enumerate(self.village.huts.items(), start=1):
                     if not_destroyed:
                         window.check_box(coordinates, "X", "red")
                         self.village.huts[i] = (False, coordinates)
@@ -164,8 +173,7 @@ class UEBH():
             d = self.roll_die()[0]
             if d in [1, 2]:
                 self.Halebeard_Peak.event.append(i)
-                if (
-                        i == "Madness") and "Foul Weather" in self.Halebeard_Peak.event and not self.Halebeard_Peak.tb_defeated:
+                if (i == "Madness") and "Foul Weather" in self.Halebeard_Peak.event and not self.Halebeard_Peak.tb_defeated:
                     # print(
                     #     "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
                     #     "this region is overcome with rage and immediately descends into the valley to assault the "
@@ -298,12 +306,13 @@ class UEBH():
             self.village.towers_built[tn] = True
             # print("No available blocks.\n=======================")
             story.write_line("No available blocks.\n=======================")
-            for r1 in range(len(t)):
-                for c1 in range(len(t[r])):
-                    if t[r1][c1] == 0:
+            for r1, row in enumerate(t):
+                for c1, val in enumerate(row):
+                    if val == 0:
                         tower_coordinate = coordinates[r1][c1]
                         window.check_box(tower_coordinate, "X", "black")
                         filled = False
+
             if filled:
                 # print("DP++")
                 story.write_line("DP++")
@@ -322,12 +331,9 @@ class UEBH():
         return False, t
 
     def select_tower(self):
-        choice1 = []
-        for key in self.village.towers_built.keys():
-            if not self.village.towers_built[key]:
-                choice1.append(key)
+        choice = [key for key, built in self.village.towers_built.items() if not built]
 
-        tower_name = random.choice(choice1)  # Select Tower
+        tower_name = random.choice(choice)  # Select Tower
 
         self.village.towers_built[tower_name] = True
 
@@ -402,9 +408,8 @@ class UEBH():
             score += 50
         if self.Halebeard_Peak.tb_defeated:
             score += 50
-        for i in self.village.towers_built.values():
-            if i:
-                score += 15
+
+        score += sum(15 for i in self.village.towers_built.values() if i)
         if win:
             if self.village.huts == 0:
                 score += 50
@@ -416,10 +421,12 @@ class UEBH():
         return score
 
     def add_doubt(self, n):
+        n1 = self.village.doubt
         self.village.doubt += n
-        for d in range(self.village.doubt):
-            if d < 18:
-                window.check_box(self.village.xy_doubt[d], "X", "black")
+        # Limit the loop to the valid range
+        for d in range(min(n, 18 - n1)):
+            window.check_box(self.village.xy_doubt[n1 + d], "X", "black")
+
         # print("Doubt increased by " + str(n))
         story.write_line("".join(["Doubt increased by ", str(n)]))
         if self.village.doubt >= 18:
@@ -597,7 +604,6 @@ class UEBH():
 
     def end_game(self):
         if self.Coastal_Caverns.tb_defeated and self.The_Scar.tb_defeated and self.Halebeard_Peak.tb_defeated:
-            self.calc_score(True)
             # print("You have defeated all three Terrible Beasts - Win")
             # print("A calm wind carries the distant sound of brass horns as the Blazing Star Regiment begins its final "
             #       "approach. A solemn crowd gathers in the village square to watch the proceedings. You have proven "
@@ -610,7 +616,7 @@ class UEBH():
                 "your worth. The village elders nod to each other. There is a sense of nervousness and excitement "
                 "in the crowd. Sipporos leads you into a nearby hut and closes the heavy door flap. In the darkness "
                 "you hear the footsteps of armored soldiers outside the hut.")
-            return True
+            return self.calc_score(True)
 
         if self.time_track[self.day] == "D":
             self.calc_score(False)
@@ -626,8 +632,8 @@ class UEBH():
                 "consider you to have broken your promise. Furious that you have wasted their time and endangered "
                 "the lives of the entire village, they cast you out of the village and into the waiting hands of "
                 "the Blazing Star Regiment. Escape is impossible")
-            return True
-        return False
+            return self.calc_score(False)
+        return self.calc_score(False)
 
     def get_action_list(self):
         action_list = ["search", "rest"]
@@ -696,10 +702,7 @@ class Village:
                                                 [[546, 659], [561, 659], [576, 659]]])}
 
     def approval(self):
-        elders = []
-        for k in self.elders_approval.keys():
-            elders.append(k)
-        elder = random.choice(elders)
+        elder = random.choice(list(self.elders_approval.keys()))
         self.elders_approval[elder] = True
 
 
