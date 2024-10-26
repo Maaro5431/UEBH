@@ -35,6 +35,7 @@ class UEBH_env(py_environment.PyEnvironment):
         self.grid = []
         self.illegal_act = None
         self.illegal_act_count = 0
+        self.illegal_act_count2 = 0
         self.area = ''
 
         self._action_spec = BoundedTensorSpec(
@@ -200,6 +201,7 @@ class UEBH_env(py_environment.PyEnvironment):
             return self.illegal_move(act)
         else:
             self.illegal_act_count = 0
+            self.illegal_act_count2 = 0
 
         # print("HP: " + str(self.player.hit_points) + "\nDoubt: " + str(self.village.doubt))
         story.write_line("HP: " + str(self.player.hit_points) + "\nDoubt: " + str(self.village.doubt))
@@ -231,12 +233,23 @@ class UEBH_env(py_environment.PyEnvironment):
                 reward, discount=1.0)
 
     def illegal_move(self, act):
+        if self.illegal_act_count2 == 30:
+            self.illegal_act_count = 0
+            self.illegal_act_count2 = 0
+            self._episode_ended = True
+            reward = -100 + self.game.calc_score(False)
+            story.write_line(
+                "XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX")
+            print("R7")
+            return ts.termination(
+                self.get_observations(), reward=reward)
+        self.illegal_act_count2 += 1
         if self.illegal_act is None or self.illegal_act != act:
             self.illegal_act = act
             return ts.transition(
                 self.get_observations(), 0, discount=1.0)
         else:
-            if self.illegal_act_count == 5:
+            if self.illegal_act_count == 10:
                 self.illegal_act_count = 0
                 self._episode_ended = True
                 reward = -100 + self.game.calc_score(False)
@@ -247,6 +260,7 @@ class UEBH_env(py_environment.PyEnvironment):
                     self.get_observations(), reward=reward)
             else:
                 self.illegal_act_count += 1
+                self.illegal_act_count2 += 1
                 return ts.transition(self.get_observations(), -3, discount=1.0)
 
     def first_search(self):

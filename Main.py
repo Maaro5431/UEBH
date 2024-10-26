@@ -5,19 +5,33 @@ import matplotlib.pyplot as plt
 from Game_env import UEBH_env
 from utils import plotLearning
 
+# Create a single figure and axis at the start
+fig, ax = plt.subplots(figsize=(10, 6))
 
-def plot_illegal_actions(illegal_actions,score):
+
+def plot_illegal_actions_score(illegal_actions, score):
     episodes = range(1, len(illegal_actions) + 1)
-    plt.figure(figsize=(10, 6))
-    plt.plot(episodes, illegal_actions, label='Illegal Actions', color='red', marker='o')
-    plt.plot(episodes, scores, label='Score', color='blue', marker='x')
-    plt.title('Illegal Actions and Scores Over Training Episodes')
-    plt.xlabel('Episode')
-    plt.ylabel('Count / Score')
-    plt.grid(True)
-    plt.legend()
-    plt.savefig("illegal_actions_and_scores_plot.png")
-    plt.close()
+
+    # Plot both illegal actions and score
+    ax.clear()  # Clear previous plot data to save memory
+    ax.plot(episodes, illegal_actions, label='Illegal Actions', color='red', marker='o')
+    ax.plot(episodes, score, label='Score', color='blue', marker='x')
+    ax.set_title('Illegal Actions and Scores Over Training Episodes')
+    ax.set_xlabel('Episode')
+    ax.set_ylabel('Count / Score')
+    ax.grid(True)
+    ax.legend()
+    fig.savefig("illegal_actions_and_scores_plot.png")
+
+    # Plot illegal actions only
+    ax.clear()  # Clear data again for the next plot
+    ax.plot(episodes, illegal_actions, label='Illegal Actions', color='red', marker='o')
+    ax.set_title('Illegal Actions Over Training Episodes')
+    ax.set_xlabel('Episode')
+    ax.set_ylabel('Illegal Actions Count')
+    ax.grid(True)
+    ax.legend()
+    fig.savefig("illegal_actions_only_plot.png")
 
 
 if __name__ == "__main__":
@@ -26,7 +40,7 @@ if __name__ == "__main__":
     action_tensor_spec = env.action_spec()
     num_actions = action_tensor_spec.maximum - action_tensor_spec.minimum + 1
     agent = Agent(gamma=0.999, epsilon=1.0, alpha=0.9, input_dims=7, action_size=num_actions, mem_size=10000,
-                  batch_size=64, epsilon_end=0.001)
+                  batch_size=64, epsilon_end=0.01)
 
     scores = []
     eps_hist = []
@@ -62,10 +76,10 @@ if __name__ == "__main__":
         if i % 10 == 0 and i > 0:
             print("______________________________SAVE______________________________")
             agent.save_model()
-            
-            # x = [j + 1 for j in range(i + 1)]
-            # plotLearning(x, scores, eps_hist, filename)
-            plot_illegal_actions(illegal_action_list, scores)
+
+            x = [j + 1 for j in range(i + 1)]
+            plotLearning(x, scores, eps_hist, filename)
+            plot_illegal_actions_score(illegal_action_list, scores)
 
     x = [i + 1 for i in range(num_games)]
     plotLearning(x, scores, eps_hist, filename)

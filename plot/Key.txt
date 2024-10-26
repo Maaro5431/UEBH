@@ -1,2 +1,4 @@
 P1- Agent(gamma=0.95, epsilon=1.0, alpha=0.001, input_dims=7, action_size=num_actions, mem_size=1000000,
                   batch_size=64, epsilon_end=0.001)
+illegal_actions_and_scores_plot-Agent(gamma=0.999, epsilon=1.0, alpha=0.9, input_dims=7, action_size=num_actions, mem_size=10000,
+                  batch_size=64, epsilon_end=0.001)

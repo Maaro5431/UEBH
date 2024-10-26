@@ -196182,3 +196182,7537 @@ Southern Tower
 [5, 5, 5, 4]
 [5, 5, 5, 5]
 Die:1
+*************2024-10-26 02:30:49.067932*************
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:5
+You rolled:5
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 1], [3, 2], [4, 2], [4, 3], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 0, 0]
+[0, 0, 0, 1]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 1], [3, 2], [4, 2], [5, 1], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 2, 0]
+[0, 0, 0, 1]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 1], [5, 1], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 2, 0]
+[0, 6, 0, 1]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 1], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 2, 0]
+[0, 6, 0, 1]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[1, 2], [2, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 2, 0]
+[0, 6, 0, 1]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[4, 1], [3, 0], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 0, 7]
+[5, 0, 0, 7]
+[5, 0, 2, 0]
+[0, 6, 0, 1]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[1, 2], [2, 2], [2, 0], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 0, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[0, 6, 0, 1]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 0, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[0, 6, 0, 1]
+[0, 7, 3, 0]
+Die:6
+A avalabel blocks:
+[[5, 2], [5, 0], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 0, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[6, 6, 0, 1]
+[0, 7, 3, 0]
+Die:6
+A avalabel blocks:
+[[6, 0], [5, 2], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 0, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[6, 6, 0, 1]
+[6, 7, 3, 0]
+Die:4
+A avalabel blocks:
+[[1, 2], [2, 2], [2, 0], [3, 2], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 4, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[6, 6, 0, 1]
+[6, 7, 3, 0]
+Die:4
+A avalabel blocks:
+[[1, 2], [2, 0], [1, 2], [3, 2], [3, 2], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[4, 4, 4, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[6, 6, 0, 1]
+[6, 7, 3, 0]
+Die:1
+A avalabel blocks:
+[[5, 2], [4, 3], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[4, 4, 4, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[6, 6, 1, 1]
+[6, 7, 3, 0]
+Die:1
+A avalabel blocks:
+[[4, 3], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[4, 4, 4, 7]
+[5, 4, 0, 7]
+[5, 0, 2, 0]
+[6, 6, 1, 1]
+[6, 7, 3, 1]
+Die:2
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2]]
+*************2024-10-26 04:30:55.614696*************
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[1, 2]
+Grid:
+ [0, 0, 0]
+-[0, 1, 0]
+Remaining die:2
+Grid:
+ [0, 2, 0]
+-[0, 1, 0]
+You rolled:[3, 1]
+The first die:3
+Grid:
+ [0, 2, 3]
+-[0, 1, 0]
+Remaining die:1
+Grid:
+ [1, 2, 3]
+-[0, 1, 0]
+You rolled:[1, 5]
+The first die:1
+Grid:
+ [1, 2, 3]
+-[0, 1, 1]
+Grid:
+ [1, 2, 3]
+-[5, 1, 1]
+Grid complete.
+2
+Result:Encounter
+Encounter
+A Coal Dragon is attacking!
+attack beast
+attack beast
+attack beast
+Victory
+You have slayed the Coal Dragon
+
+HP: 10
+You rolled:[2, 1]
+The first die:2
+Grid:
+ [0, 0, 0]
+-[0, 2, 0]
+Remaining die:1
+Grid:
+ [0, 1, 0]
+-[0, 2, 0]
+You rolled:[5, 2]
+The first die:5
+Grid:
+ [0, 1, 5]
+-[0, 2, 0]
+Remaining die:2
+Grid:
+ [2, 1, 5]
+-[0, 2, 0]
+You rolled:[1, 5]
+The first die:1
+Grid:
+ [2, 1, 5]
+-[1, 2, 0]
+Grid:
+ [2, 1, 5]
+-[1, 2, 5]
+Grid complete.
+1
+Result:Track Beast
+Track Beast
+HP: 10
+You rolled:[4, 3]
+The first die:4
+Grid:
+ [4, 0, 0]
+-[0, 0, 0]
+Remaining die:3
+Grid:
+ [4, 0, 0]
+-[0, 0, 3]
+You rolled:[6, 4]
+The first die:6
+Grid:
+ [4, 0, 0]
+-[6, 0, 3]
+Remaining die:4
+Grid:
+ [4, 0, 4]
+-[6, 0, 3]
+You rolled:[6, 2]
+The first die:6
+Grid:
+ [4, 0, 4]
+-[6, 6, 3]
+Grid:
+ [4, 2, 4]
+-[6, 6, 3]
+Grid complete.
+0
+Search complete.
+Result:Encounter
+Encounter
+A  Spark Hounds is attacking!
+take damage
+take damage
+attack beast
+take damage
+take damage
+attack beast
+take damage
+Victory
+You have slayed the  Spark Hounds
+
+HP: 5
+Doubt increased by 2
+HP: 5
+Doubt: 4
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:1
+You rolled:1
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 2], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 3, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 2], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 3], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 3, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 2], [4, 1], [4, 2], [4, 3], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 3, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [1, 2], [3, 2], [4, 1], [4, 2], [4, 3], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 0, 0, 7]
+[0, 5, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 3, 0]
+Die:5
+A avalabel blocks:
+[[4, 2], [4, 0], [3, 1], [5, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 0, 0, 7]
+[0, 5, 0, 0]
+[2, 5, 0, 0]
+[0, 7, 3, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 2], [3, 2], [4, 3], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 0, 0, 7]
+[0, 5, 0, 6]
+[2, 5, 0, 0]
+[0, 7, 3, 0]
+Die:3
+A avalabel blocks:
+[[6, 3], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 0, 0, 7]
+[0, 5, 0, 6]
+[2, 5, 0, 0]
+[0, 7, 3, 3]
+Die:4
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 4, 0, 7]
+[0, 5, 0, 6]
+[2, 5, 0, 0]
+[0, 7, 3, 3]
+Die:2
+A avalabel blocks:
+[[4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 4, 0, 7]
+[2, 5, 0, 6]
+[2, 5, 0, 0]
+[0, 7, 3, 3]
+Die:4
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 4, 4, 7]
+[2, 5, 0, 6]
+[2, 5, 0, 0]
+[0, 7, 3, 3]
+Die:2
+A avalabel blocks:
+[[6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 4, 0, 7]
+[1, 4, 4, 7]
+[2, 5, 0, 6]
+[2, 5, 0, 0]
+[2, 7, 3, 3]
+Die:1
+A avalabel blocks:
+[[2, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[1, 4, 0, 7]
+[1, 4, 4, 7]
+[2, 5, 0, 6]
+[2, 5, 0, 0]
+[2, 7, 3, 3]
+Die:4
+A avalabel blocks:
+[[2, 2], [1, 1], [2, 2], [4, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[1, 4, 0, 7]
+[1, 4, 4, 7]
+[2, 5, 4, 6]
+[2, 5, 0, 0]
+[2, 7, 3, 3]
+Die:5
+A avalabel blocks:
+[[5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[1, 4, 0, 7]
+[1, 4, 4, 7]
+[2, 5, 4, 6]
+[2, 5, 5, 0]
+[2, 7, 3, 3]
+Die:2
+No available blocks.
+=======================
+HP: 5
+Doubt: 4
+/////////////////////////////////////////////
+DAY:3
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 4
+Today you are going to build
+New num:4
+You rolled:4
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[4, 0, 0, 0]
+[0, 0, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 3]
+[4, 0, 0, 0]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 2], [3, 3], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 3, 3]
+[4, 0, 0, 0]
+[0, 0, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 3, 3]
+[4, 0, 0, 0]
+[0, 0, 6, 0]
+Die:6
+A avalabel blocks:
+[[6, 3], [6, 1], [5, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 3, 3]
+[4, 0, 6, 0]
+[0, 0, 6, 0]
+Die:4
+A avalabel blocks:
+[[5, 1], [6, 0]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 0]
+[0, 0, 6, 0]
+New num:5
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 0, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 0]
+[0, 0, 6, 0]
+Die:4
+A avalabel blocks:
+[[6, 0], [4, 1], [6, 1]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 0, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 0]
+[4, 0, 6, 0]
+Die:3
+A avalabel blocks:
+[[4, 1], [3, 2], [3, 3], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 0]
+[4, 0, 6, 0]
+New num:1
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1]]
+Southern Tower
+---------------------
+[7, 1, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 0]
+[4, 0, 6, 0]
+Die:6
+A avalabel blocks:
+[[5, 3], [6, 3], [6, 1]]
+Southern Tower
+---------------------
+[7, 1, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 0]
+Die:1
+A avalabel blocks:
+[[0, 2], [1, 1]]
+Southern Tower
+---------------------
+[7, 1, 1, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 0]
+Die:6
+A avalabel blocks:
+[[6, 3], [6, 3], [6, 1]]
+Southern Tower
+---------------------
+[7, 1, 1, 7]
+[7, 0, 0, 7]
+[7, 0, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 6]
+Die:5
+A avalabel blocks:
+[[2, 1], [1, 2]]
+Southern Tower
+---------------------
+[7, 1, 1, 7]
+[7, 0, 0, 7]
+[7, 5, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 6]
+New num:2
+No available blocks.
+=======================
+HP: 5
+Doubt: 8
+/////////////////////////////////////////////
+DAY:4
+Today you are going to build
+New num:4
+You rolled:4
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 4]
+[0, 0, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 1], [2, 0], [2, 1], [3, 0], [3, 1], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 4]
+[0, 0, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:6
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 4]
+[6, 0, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:2
+A avalabel blocks:
+[[3, 1], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 4]
+[6, 0, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+New num:5
+A avalabel blocks:
+[[3, 1], [3, 2], [4, 0], [5, 0], [6, 0], [6, 1], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 4]
+[6, 0, 0]
+[0, 5, 0]
+[0, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:3
+A avalabel blocks:
+[[0, 2], [1, 1]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 0, 4]
+[6, 0, 0]
+[0, 5, 0]
+[0, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[1, 1], [2, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 0, 0]
+[0, 5, 0]
+[0, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:6
+A avalabel blocks:
+[[2, 1], [3, 0]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 0]
+[0, 5, 0]
+[0, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+New num:1
+A avalabel blocks:
+[[4, 0], [5, 0], [6, 0], [6, 1], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 0]
+[0, 5, 0]
+[1, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:6
+A avalabel blocks:
+[[3, 0], [2, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 0]
+[6, 5, 0]
+[1, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[2, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 4]
+[6, 5, 0]
+[1, 7, 0]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 2], [6, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 4]
+[6, 5, 0]
+[1, 7, 2]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[3, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 4]
+[6, 5, 4]
+[1, 7, 2]
+[0, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:1
+A avalabel blocks:
+[[5, 0]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 4, 4]
+[6, 6, 4]
+[6, 5, 4]
+[1, 7, 2]
+[1, 7, 2]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+No available blocks.
+=======================
+HP: 5
+Doubt: 8
+/////////////////////////////////////////////
+DAY:5
+Today you are going to rest
+HP++HP++
+Doubt increased by 1
+HP: 7
+Doubt: 9
+/////////////////////////////////////////////
+DAY:6
+The Giant of the Peaks is attacking the Southern Tower
+The Southern Towertook two hit's!
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 5, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 6]
+Today you are going to rest
+HP++HP++
+Doubt increased by 1
+HP: 9
+Doubt: 10
+/////////////////////////////////////////////
+DAY:7
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 11
+/////////////////////////////////////////////
+DAY:8
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 12
+/////////////////////////////////////////////
+DAY:9
+The Giant of the Peaks is attacking the Southern Tower
+The Southern Towertook no damage
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 5, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 6]
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 13
+/////////////////////////////////////////////
+DAY:10
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+The Southern Towertook no damage
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 5, 5, 7]
+[7, 0, 3, 0]
+[7, 0, 3, 3]
+[4, 4, 6, 6]
+[4, 0, 6, 6]
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 14
+/////////////////////////////////////////////
+DAY:11
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 15
+/////////////////////////////////////////////
+DAY:12
+The The Burning Man is attacking the South Western Tower
+The South Western Towerwas destroyed!
+[7, 0, 0]
+[7, 0, 0]
+[0, 0, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Today you are going to search
+You rolled:[3, 3]
+Grid:
+ [0, 0, 0]
+-[3, 0, 0]
+Remaining die:3
+Grid:
+ [0, 3, 0]
+-[3, 0, 0]
+You rolled:[6, 3]
+The first die:6
+Grid:
+ [0, 3, 0]
+-[3, 6, 0]
+Remaining die:3
+Grid:
+ [0, 3, 0]
+-[3, 6, 3]
+You rolled:[1, 6]
+The first die:1
+Your score is 30
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 1]
+Grid:
+ [0, 0, 0]
+-[0, 6, 0]
+Remaining die:1
+Grid:
+ [0, 0, 1]
+-[0, 6, 0]
+You rolled:[1, 6]
+The first die:1
+Grid:
+ [1, 0, 1]
+-[0, 6, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[1, 1]
+Grid:
+ [1, 0, 0]
+-[0, 0, 0]
+Remaining die:1
+Grid:
+ [1, 1, 0]
+-[0, 0, 0]
+You rolled:[4, 5]
+The first die:4
+Grid:
+ [1, 1, 4]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [1, 1, 4]
+-[0, 5, 0]
+You rolled:[6, 2]
+The first die:6
+Grid:
+ [1, 1, 4]
+-[0, 5, 6]
+Grid:
+ [1, 1, 4]
+-[2, 5, 6]
+Grid complete.
+2
+Result:Encounter
+Encounter
+A Hollow Birds is attacking!
+attack beast
+take damage
+take damage
+attack beast
+Victory
+You have slayed the Hollow Birds
+
+HP: 8
+You rolled:[4, 6]
+The first die:4
+Grid:
+ [0, 0, 4]
+-[0, 0, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[4, 2]
+Grid:
+ [0, 4, 0]
+-[0, 0, 0]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 0]
+-[0, 0, 5]
+Remaining die:5
+Grid:
+ [0, 0, 0]
+-[0, 5, 5]
+You rolled:[2, 4]
+The first die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 2]
+Grid:
+ [0, 0, 3]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [0, 0, 3]
+-[0, 2, 0]
+You rolled:[3, 3]
+The first die:3
+Grid:
+ [0, 0, 3]
+-[0, 2, 3]
+Remaining die:3
+Grid:
+ [0, 0, 3]
+-[3, 2, 3]
+You rolled:[2, 6]
+The first die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:2
+You rolled:2
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [2, 0], [2, 2], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 0, 7]
+[4, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [2, 2], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 0, 7]
+[4, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[2, 1], [3, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 0, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 0, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[4, 3], [5, 0], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 3, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[4, 2], [4, 0], [3, 1], [5, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 1, 0]
+[0, 0, 3, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[5, 0], [6, 0], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 1, 0]
+[6, 0, 3, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[0, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 5, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 1, 0]
+[6, 0, 3, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[5, 1], [4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 5, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 0, 7]
+[0, 1, 1, 0]
+[6, 6, 3, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 5, 7]
+[7, 2, 5, 7]
+[4, 4, 5, 7]
+[0, 0, 5, 7]
+[0, 1, 1, 0]
+[6, 6, 3, 0]
+[0, 7, 0, 0]
+Die:2
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:1
+You rolled:1
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 1, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [2, 2], [3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 1, 0, 7]
+[7, 0, 0, 7]
+[7, 6, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [2, 2], [3, 3], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 1, 0, 7]
+[7, 0, 0, 7]
+[7, 6, 0, 5]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[3, 2], [2, 1], [4, 1]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 1, 0, 7]
+[7, 6, 0, 7]
+[7, 6, 0, 5]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 2], [4, 3]]
+Your score is 15
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:5
+You rolled:5
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 5, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[2, 1], [3, 2], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 5, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[2, 1], [3, 2], [4, 3], [5, 0], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 5, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 4, 0, 0]
+[0, 0, 0, 3]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[5, 2], [4, 3], [6, 3]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 1]
+Grid:
+ [0, 0, 0]
+-[0, 2, 0]
+Remaining die:1
+Grid:
+ [1, 0, 0]
+-[0, 2, 0]
+You rolled:[6, 1]
+The first die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[2, 5]
+Grid:
+ [0, 0, 0]
+-[0, 2, 0]
+Remaining die:5
+Grid:
+ [0, 0, 0]
+-[5, 2, 0]
+You rolled:[3, 6]
+The first die:3
+Grid:
+ [3, 0, 0]
+-[5, 2, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:2
+You rolled:2
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 2], [4, 0], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 0, 0, 3]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 2], [4, 0], [5, 0], [5, 1], [5, 2], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 0, 0, 3]
+[0, 6, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[3, 2], [3, 0], [2, 1], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 2, 0, 3]
+[0, 6, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[3, 2], [3, 0], [2, 1], [4, 2], [4, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 2, 2, 3]
+[0, 6, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 2, 2, 3]
+[0, 6, 0, 3]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[5, 2], [5, 0]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[6, 1]
+Grid:
+ [0, 0, 6]
+-[0, 0, 0]
+Remaining die:1
+Grid:
+ [1, 0, 6]
+-[0, 0, 0]
+You rolled:[3, 1]
+The first die:3
+Grid:
+ [1, 0, 6]
+-[0, 3, 0]
+Remaining die:1
+Grid:
+ [1, 0, 6]
+-[0, 3, 1]
+You rolled:[3, 4]
+The first die:3
+Grid:
+ [1, 0, 6]
+-[3, 3, 1]
+Grid:
+ [1, 4, 6]
+-[3, 3, 1]
+Grid complete.
+1
+Result:Encounter
+Encounter
+A Hollow Birds is attacking!
+attack beast
+attack beast
+Victory
+You have slayed the Hollow Birds
+
+HP: 10
+You rolled:[3, 5]
+The first die:3
+Grid:
+ [0, 0, 3]
+-[0, 0, 0]
+Remaining die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 3]
+Grid:
+ [1, 0, 0]
+-[0, 0, 0]
+Remaining die:3
+Grid:
+ [1, 0, 3]
+-[0, 0, 0]
+You rolled:[1, 4]
+The first die:1
+Grid:
+ [1, 1, 3]
+-[0, 0, 0]
+Remaining die:4
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [0, 0, 5]
+-[0, 5, 0]
+You rolled:[4, 3]
+The first die:4
+Grid:
+ [0, 0, 5]
+-[0, 5, 4]
+Remaining die:3
+Grid:
+ [0, 3, 5]
+-[0, 5, 4]
+You rolled:[5, 4]
+The first die:5
+Grid:
+ [0, 3, 5]
+-[5, 5, 4]
+Grid:
+ [4, 3, 5]
+-[5, 5, 4]
+Grid complete.
+2
+Result:Encounter
+Encounter
+A Hollow Birds is attacking!
+attack beast
+take damage
+attack beast
+Victory
+You have slayed the Hollow Birds
+
+HP: 9
+You rolled:[1, 2]
+The first die:1
+Grid:
+ [0, 0, 0]
+-[0, 1, 0]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 2]
+Grid:
+ [2, 0, 0]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [2, 0, 0]
+-[2, 0, 0]
+You rolled:[4, 1]
+The first die:4
+Grid:
+ [2, 0, 0]
+-[2, 0, 4]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[2, 6]
+Grid:
+ [0, 0, 0]
+-[0, 2, 0]
+Remaining die:6
+Grid:
+ [0, 0, 0]
+-[6, 2, 0]
+You rolled:[6, 5]
+The first die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 4]
+Grid:
+ [0, 0, 0]
+-[0, 3, 0]
+Remaining die:4
+Grid:
+ [0, 4, 0]
+-[0, 3, 0]
+You rolled:[1, 2]
+The first die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 3
+/////////////////////////////////////////////
+DAY:2
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 4
+/////////////////////////////////////////////
+DAY:3
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 4
+Today you are going to build
+New num:3
+You rolled:3
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 3, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 3, 7]
+[0, 0, 0, 7]
+[5, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 1, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[1, 1], [0, 2], [2, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 3, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 1, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[5, 0], [5, 1], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 3, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 1, 0]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 3, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 1, 0]
+[2, 0, 0, 4]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 3, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 1, 0]
+[2, 0, 0, 4]
+[0, 7, 6, 0]
+Die:2
+A avalabel blocks:
+[[5, 1], [4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 3, 3, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 0, 1, 0]
+[2, 2, 0, 4]
+[0, 7, 6, 0]
+Die:6
+A avalabel blocks:
+[[6, 3], [5, 2]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 3]
+Grid:
+ [0, 0, 0]
+-[0, 6, 0]
+Remaining die:3
+Grid:
+ [3, 0, 0]
+-[0, 6, 0]
+You rolled:[6, 6]
+The first die:6
+Grid:
+ [3, 0, 0]
+-[6, 6, 0]
+Remaining die:6
+Grid:
+ [3, 0, 0]
+-[6, 6, 6]
+You rolled:[4, 3]
+The first die:4
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 4]
+Grid:
+ [3, 0, 0]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [3, 0, 4]
+-[0, 0, 0]
+You rolled:[1, 6]
+The first die:1
+Grid:
+ [3, 0, 4]
+-[0, 1, 0]
+Remaining die:6
+Grid:
+ [3, 0, 4]
+-[0, 1, 6]
+You rolled:[5, 6]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 6]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [0, 0, 5]
+-[0, 6, 0]
+You rolled:[5, 6]
+The first die:5
+Grid:
+ [0, 0, 5]
+-[5, 6, 0]
+Remaining die:6
+Grid:
+ [0, 0, 5]
+-[5, 6, 6]
+You rolled:[6, 2]
+The first die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:5
+You rolled:5
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 0], [3, 1], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 1], [4, 2], [4, 3], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[2, 0, 0, 3]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 5, 7]
+[2, 0, 0, 3]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 1], [3, 0], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 5, 7]
+[2, 0, 0, 3]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 1], [3, 0], [5, 1], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 5, 7]
+[2, 0, 0, 3]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 2], [5, 3]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:1
+You rolled:1
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 0], [3, 1], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 1], [4, 2], [4, 3], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 0, 0, 3]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 1], [3, 0], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 1, 7]
+[6, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 0, 0, 3]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [1, 1], [5, 1], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 5, 0, 7]
+[0, 0, 1, 7]
+[6, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 0, 0, 3]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [5, 1], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 5, 0, 7]
+[0, 0, 1, 7]
+[6, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 4, 0, 3]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 1], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 5, 0, 7]
+[6, 0, 1, 7]
+[6, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 4, 0, 3]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[2, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 5, 1, 7]
+[6, 0, 1, 7]
+[6, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 4, 0, 3]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[0, 2], [2, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 5, 1, 7]
+[6, 1, 1, 7]
+[6, 0, 0, 7]
+[6, 0, 0, 3]
+[0, 4, 0, 3]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[0, 2], [3, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 5, 1, 7]
+[6, 1, 1, 7]
+[6, 0, 1, 7]
+[6, 0, 0, 3]
+[0, 4, 0, 3]
+[0, 7, 0, 0]
+Die:5
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:6
+You rolled:6
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 6]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [4, 1], [4, 2], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 6]
+[7, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [5, 0], [5, 1], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 6]
+[7, 0, 3, 0]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [5, 3], [6, 0], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 6]
+[7, 0, 3, 0]
+[0, 1, 0, 0]
+[5, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2], [5, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 6]
+[7, 0, 3, 0]
+[0, 1, 0, 0]
+[5, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 6]
+[7, 0, 3, 6]
+[0, 1, 0, 0]
+[5, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[5, 3]]
+Your score is 15
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:1
+You rolled:1
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [3, 0], [4, 0], [4, 1], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 0, 0, 5]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [3, 0], [4, 0], [4, 1], [5, 0], [5, 1], [5, 2], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 1, 7]
+[6, 0, 0, 5]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[4, 2], [5, 3]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:1
+You rolled:1
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[1, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 1], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[1, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 2], [4, 3], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 0, 7]
+[1, 1, 0, 3]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 2], [5, 2], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 6, 7]
+[1, 1, 0, 3]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [5, 2], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 6, 7]
+[1, 1, 0, 3]
+[0, 0, 0, 0]
+[2, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 1], [5, 2], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 6, 7]
+[1, 1, 0, 3]
+[0, 0, 0, 0]
+[2, 7, 4, 0]
+Die:2
+A avalabel blocks:
+[[5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[1, 0, 6, 7]
+[1, 1, 0, 3]
+[2, 0, 0, 0]
+[2, 7, 4, 0]
+Die:2
+A avalabel blocks:
+[[5, 1]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:2
+You rolled:2
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 2, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[3, 1], [2, 2], [4, 2]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:2
+You rolled:2
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 2, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 0], [5, 0], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+New num:5
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 0], [5, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[5, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 2], [5, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[5, 0, 6, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [5, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 0, 6, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+Die:2
+A avalabel blocks:
+[[4, 0], [3, 1], [5, 1], [4, 3], [3, 2], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 0, 6, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+Die:4
+A avalabel blocks:
+[[1, 2], [2, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[0, 0, 0, 7]
+[0, 2, 2, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+Die:2
+A avalabel blocks:
+[[4, 0], [3, 1], [5, 1], [3, 2], [5, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[0, 2, 0, 7]
+[0, 2, 2, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+Die:6
+A avalabel blocks:
+[[1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[0, 2, 6, 7]
+[0, 2, 2, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 3]
+New num:1
+A avalabel blocks:
+[[0, 2], [5, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[0, 2, 6, 7]
+[0, 2, 2, 2]
+[1, 0, 0, 0]
+[0, 7, 0, 3]
+Die:3
+A avalabel blocks:
+[[6, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[0, 2, 6, 7]
+[0, 2, 2, 2]
+[1, 0, 0, 3]
+[0, 7, 0, 3]
+Die:1
+A avalabel blocks:
+[[5, 1], [4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[0, 2, 6, 7]
+[1, 2, 2, 2]
+[1, 0, 0, 3]
+[0, 7, 0, 3]
+Die:5
+A avalabel blocks:
+[[3, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[5, 2, 6, 7]
+[1, 2, 2, 2]
+[1, 0, 0, 3]
+[0, 7, 0, 3]
+Die:3
+A avalabel blocks:
+[[5, 2], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[5, 4, 6, 7]
+[5, 2, 6, 7]
+[1, 2, 2, 2]
+[1, 0, 0, 3]
+[0, 7, 3, 3]
+Die:5
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:4
+You rolled:4
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 4, 0]
+[0, 0, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [3, 2], [3, 3], [4, 1], [4, 3], [5, 0], [6, 0], [6, 1], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 4, 0]
+[0, 0, 0, 1]
+New num:3
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [3, 2], [3, 3], [4, 1], [4, 3], [5, 0], [6, 0], [6, 1]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 4, 0]
+[0, 0, 0, 1]
+Die:1
+A avalabel blocks:
+[[6, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 4, 1]
+[0, 0, 0, 1]
+New num:2
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 2], [3, 3], [5, 0], [6, 0], [6, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 4, 1]
+[0, 0, 0, 1]
+New num:6
+A avalabel blocks:
+[[1, 1], [2, 1], [2, 2], [3, 2], [3, 3], [5, 0], [6, 0], [6, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 4, 1]
+[0, 0, 0, 1]
+Die:1
+A avalabel blocks:
+[[4, 3], [6, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 4, 1]
+[0, 0, 1, 1]
+Die:6
+A avalabel blocks:
+[[2, 2], [1, 1], [3, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 0, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 4, 1]
+[0, 0, 1, 1]
+Die:4
+A avalabel blocks:
+[[5, 1], [4, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 0, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 4, 0]
+[0, 0, 4, 1]
+[0, 0, 1, 1]
+Die:2
+A avalabel blocks:
+[[0, 1], [1, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 4, 0]
+[0, 0, 4, 1]
+[0, 0, 1, 1]
+Die:3
+A avalabel blocks:
+[[3, 1], [5, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 4, 0]
+[0, 3, 4, 1]
+[0, 0, 1, 1]
+New num:5
+A avalabel blocks:
+[[3, 3], [6, 0]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 4, 0]
+[0, 3, 4, 1]
+[5, 0, 1, 1]
+Die:2
+A avalabel blocks:
+[[0, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 2, 7]
+[7, 0, 0, 0]
+[7, 3, 4, 0]
+[0, 3, 4, 1]
+[5, 0, 1, 1]
+Die:6
+A avalabel blocks:
+[[0, 1], [3, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 0, 0]
+[7, 3, 4, 0]
+[0, 3, 4, 1]
+[5, 0, 1, 1]
+Die:3
+A avalabel blocks:
+[[5, 0], [6, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 0, 0]
+[7, 3, 4, 0]
+[0, 3, 4, 1]
+[5, 3, 1, 1]
+Die:6
+A avalabel blocks:
+[[0, 1], [3, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 6, 0]
+[7, 3, 4, 0]
+[0, 3, 4, 1]
+[5, 3, 1, 1]
+Die:4
+A avalabel blocks:
+[[4, 3]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 2, 7]
+[7, 6, 6, 0]
+[7, 3, 4, 4]
+[0, 3, 4, 1]
+[5, 3, 1, 1]
+Die:5
+A avalabel blocks:
+[[5, 0]]
+Your score is 15
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:3
+You rolled:3
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 0], [3, 1], [3, 2], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[1, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 2], [3, 1], [3, 2], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[1, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [3, 1], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 0, 7]
+[1, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[5, 1], [4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 0, 7]
+[1, 0, 5, 7]
+[0, 0, 0, 7]
+[3, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[0, 0, 0, 7]
+[3, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[2, 1], [3, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[1, 0, 0, 7]
+[3, 0, 0, 0]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[1, 0, 0, 7]
+[3, 0, 0, 2]
+[3, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 1], [5, 1], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[1, 0, 0, 7]
+[3, 0, 0, 2]
+[3, 3, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 1], [6, 0], [5, 2], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[1, 0, 0, 7]
+[3, 0, 0, 2]
+[3, 3, 0, 0]
+[3, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[1, 0, 0, 7]
+[3, 0, 0, 2]
+[3, 3, 0, 2]
+[3, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[2, 1], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 0, 5, 7]
+[1, 1, 0, 7]
+[3, 0, 0, 2]
+[3, 3, 0, 2]
+[3, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[0, 2], [2, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 5, 5, 7]
+[1, 1, 0, 7]
+[3, 0, 0, 2]
+[3, 3, 0, 2]
+[3, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 2], [5, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 5, 5, 7]
+[1, 1, 0, 7]
+[3, 0, 0, 2]
+[3, 3, 2, 2]
+[3, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 1], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 5, 5, 7]
+[1, 1, 0, 7]
+[3, 3, 0, 2]
+[3, 3, 2, 2]
+[3, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[0, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 5, 7]
+[1, 5, 5, 7]
+[1, 1, 5, 7]
+[3, 3, 0, 2]
+[3, 3, 2, 2]
+[3, 7, 0, 0]
+Die:6
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:2
+You rolled:2
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[1, 1], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 1], [1, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:1
+A avalabel blocks:
+[[3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[4, 2], [3, 1], [5, 1]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 1, 0, 0]
+[7, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[3, 3], [4, 3], [5, 0], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 1, 0, 0]
+[7, 1, 0, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:5
+A avalabel blocks:
+[[4, 2], [3, 3], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:3
+A avalabel blocks:
+[[5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[5, 3], [5, 1], [4, 2], [6, 2]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 1], [0, 1], [2, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[2, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 2, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[2, 1], [2, 1], [3, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 0]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[5, 0], [6, 1], [5, 3], [4, 2], [6, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 0]
+[0, 3, 0, 0]
+New num:6
+A avalabel blocks:
+[[6, 3]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 0]
+[0, 3, 0, 6]
+Die:3
+A avalabel blocks:
+[[5, 0], [5, 3], [4, 2], [6, 2], [6, 2], [6, 0]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 3]
+[0, 3, 0, 6]
+New num:4
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:3
+The Dweller in the Tides is attacking the Eastern Tower
+The Eastern Towertook two hit's!
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[1, 5, 5, 7]
+[1, 1, 5, 7]
+[3, 3, 0, 2]
+[3, 3, 2, 2]
+[3, 7, 0, 0]
+Today you are going to build
+New num:5
+You rolled:5
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 0, 0]
+[0, 0, 5]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 1], [2, 2], [4, 2]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 0, 5]
+[0, 0, 5]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [2, 0], [3, 0], [4, 0], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 0, 2]
+[7, 0, 0]
+[0, 0, 5]
+[0, 0, 5]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 1], [1, 2], [3, 1], [4, 2]]
+South Western Tower
+---------------------
+[7, 0, 2]
+[7, 0, 5]
+[0, 0, 5]
+[0, 0, 5]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:4
+A avalabel blocks:
+[[2, 0], [3, 0], [4, 0], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 0, 2]
+[7, 0, 5]
+[0, 0, 5]
+[4, 0, 5]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 1]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[0, 0, 5]
+[4, 0, 5]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:1
+A avalabel blocks:
+[[5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[0, 0, 5]
+[4, 0, 5]
+[0, 7, 0]
+[0, 7, 1]
+[0, 0, 0]
+[0, 0, 0]
+New num:6
+A avalabel blocks:
+[[5, 0], [6, 0], [6, 1], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[0, 0, 5]
+[4, 0, 5]
+[0, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[0, 0, 0]
+Die:5
+A avalabel blocks:
+[[1, 1], [2, 1], [3, 1], [4, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[0, 5, 5]
+[4, 0, 5]
+[0, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 0]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[4, 5, 5]
+[4, 0, 5]
+[0, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[0, 0, 0]
+Die:6
+A avalabel blocks:
+[[6, 1], [5, 0], [7, 0]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[4, 5, 5]
+[4, 0, 5]
+[0, 7, 0]
+[6, 7, 1]
+[6, 0, 0]
+[0, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 0], [6, 1], [7, 0]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[4, 5, 5]
+[4, 0, 5]
+[0, 7, 0]
+[6, 7, 1]
+[6, 6, 0]
+[0, 0, 0]
+New num:3
+A avalabel blocks:
+[[7, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[4, 5, 5]
+[4, 0, 5]
+[0, 7, 0]
+[6, 7, 1]
+[6, 6, 0]
+[0, 0, 3]
+Die:4
+A avalabel blocks:
+[[3, 1], [4, 0]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[4, 5, 5]
+[4, 0, 5]
+[4, 7, 0]
+[6, 7, 1]
+[6, 6, 0]
+[0, 0, 3]
+Die:3
+A avalabel blocks:
+[[7, 1], [6, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 0, 5]
+[4, 5, 5]
+[4, 0, 5]
+[4, 7, 0]
+[6, 7, 1]
+[6, 6, 3]
+[0, 0, 3]
+Die:2
+A avalabel blocks:
+[[1, 1]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 2, 5]
+[4, 5, 5]
+[4, 0, 5]
+[4, 7, 0]
+[6, 7, 1]
+[6, 6, 3]
+[0, 0, 3]
+Die:6
+A avalabel blocks:
+[[7, 0], [7, 1]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 2, 5]
+[4, 5, 5]
+[4, 0, 5]
+[4, 7, 0]
+[6, 7, 1]
+[6, 6, 3]
+[0, 6, 3]
+Die:2
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:4
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+The Southern Towertook two hit's!
+[7, 0, 0, 7]
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 1, 0, 5]
+[7, 1, 0, 5]
+[0, 3, 3, 3]
+[0, 3, 0, 6]
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 0]
+-[0, 5, 0]
+Remaining die:5
+Grid:
+ [5, 0, 0]
+-[0, 5, 0]
+You rolled:[3, 4]
+The first die:3
+Grid:
+ [5, 3, 0]
+-[0, 5, 0]
+Remaining die:4
+Your score is 45
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[2, 1]
+Grid:
+ [0, 0, 0]
+-[2, 0, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 0]
+-[5, 0, 0]
+Remaining die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 6]
+Grid:
+ [0, 0, 0]
+-[3, 0, 0]
+Remaining die:6
+Grid:
+ [0, 6, 0]
+-[3, 0, 0]
+You rolled:[5, 1]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[6, 6]
+Grid:
+ [0, 6, 0]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [0, 6, 0]
+-[6, 0, 0]
+You rolled:[6, 4]
+The first die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 2]
+Grid:
+ [0, 0, 0]
+-[6, 0, 0]
+Remaining die:2
+Grid:
+ [0, 0, 2]
+-[6, 0, 0]
+You rolled:[2, 6]
+The first die:2
+Grid:
+ [0, 2, 2]
+-[6, 0, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 5]
+Grid:
+ [0, 0, 2]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [0, 5, 2]
+-[0, 0, 0]
+You rolled:[6, 2]
+The first die:6
+Grid:
+ [0, 5, 2]
+-[0, 0, 6]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 2]
+Grid:
+ [0, 0, 2]
+-[0, 0, 0]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[5, 1]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:1
+Grid:
+ [1, 0, 5]
+-[0, 0, 0]
+You rolled:[2, 1]
+The first die:2
+*************2024-10-26 10:40:48.078893*************
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:5
+You rolled:5
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 2], [3, 0], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [3, 0], [4, 0], [4, 2], [4, 3], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 2]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 0], [1, 1], [3, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 2]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [4, 0], [4, 2], [6, 0], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 2]
+[0, 7, 6, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [4, 0], [4, 2], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 2]
+[0, 7, 6, 0]
+New num:4
+A avalabel blocks:
+[[4, 0], [4, 2], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 0, 2]
+[4, 7, 6, 0]
+Die:6
+A avalabel blocks:
+[[6, 3], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 6, 2]
+[4, 7, 6, 0]
+Die:1
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[0, 5, 5, 7]
+[0, 5, 0, 7]
+[0, 0, 0, 0]
+[0, 3, 6, 2]
+[4, 7, 6, 0]
+Die:2
+A avalabel blocks:
+[[4, 3], [6, 3]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:4
+You rolled:4
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[1, 1], [2, 0], [2, 1], [2, 2], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [4, 0], [5, 0], [5, 1], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+New num:6
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [4, 0], [5, 0], [5, 1], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+New num:5
+A avalabel blocks:
+[[3, 0], [4, 0], [5, 0], [5, 1], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 0, 7]
+[5, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+Die:6
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+New num:1
+A avalabel blocks:
+[[5, 0], [5, 1], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 1, 0, 0]
+[0, 7, 0, 2]
+Die:3
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 0, 0, 7]
+[0, 0, 3, 0]
+[0, 1, 3, 0]
+[0, 7, 0, 2]
+Die:5
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 0]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 0, 0, 7]
+[5, 0, 3, 0]
+[0, 1, 3, 0]
+[0, 7, 0, 2]
+Die:1
+A avalabel blocks:
+[[5, 0], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 0, 0, 7]
+[5, 0, 3, 0]
+[1, 1, 3, 0]
+[0, 7, 0, 2]
+Die:5
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 5, 0, 7]
+[5, 0, 3, 0]
+[1, 1, 3, 0]
+[0, 7, 0, 2]
+Die:3
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2], [5, 3], [6, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 6, 6, 7]
+[5, 5, 0, 7]
+[5, 0, 3, 0]
+[1, 1, 3, 3]
+[0, 7, 0, 2]
+Die:6
+A avalabel blocks:
+[[2, 0], [1, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[6, 6, 6, 7]
+[5, 5, 0, 7]
+[5, 0, 3, 0]
+[1, 1, 3, 3]
+[0, 7, 0, 2]
+Die:1
+A avalabel blocks:
+[[6, 0], [4, 1]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:5
+You rolled:5
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 0], [3, 1], [3, 2], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 3, 0, 7]
+[0, 0, 0, 0]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 2], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 1, 7]
+[0, 3, 0, 7]
+[0, 0, 0, 0]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 0, 1, 7]
+[0, 3, 0, 7]
+[0, 0, 0, 0]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[5, 1], [4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 0, 1, 7]
+[0, 3, 0, 7]
+[0, 0, 0, 0]
+[5, 5, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 2], [2, 0], [4, 2], [4, 3], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 0, 1, 7]
+[0, 3, 0, 7]
+[0, 0, 6, 0]
+[5, 5, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[1, 2], [2, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 1, 7]
+[0, 3, 0, 7]
+[0, 0, 6, 0]
+[5, 5, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 0, 6, 0]
+[5, 5, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 3], [4, 1], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 0, 6, 6]
+[5, 5, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[4, 0], [6, 0], [5, 2], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 0, 6, 6]
+[5, 5, 5, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 1], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 6, 6, 6]
+[5, 5, 5, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 0, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 6, 6, 6]
+[5, 5, 5, 0]
+[0, 7, 0, 2]
+Die:1
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 4, 1, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 6, 6, 6]
+[5, 5, 5, 0]
+[0, 7, 0, 2]
+Die:1
+A avalabel blocks:
+[[0, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 4, 1, 7]
+[0, 4, 1, 7]
+[0, 3, 6, 7]
+[0, 6, 6, 6]
+[5, 5, 5, 0]
+[0, 7, 0, 2]
+Die:6
+A avalabel blocks:
+[[4, 0], [5, 3]]
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:1
+You rolled:1
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[2, 0], [2, 1], [3, 0], [3, 1], [3, 2], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[2, 1], [3, 0]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 0, 0, 7]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[3, 2], [4, 1], [4, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 0, 0, 7]
+[0, 6, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[3, 2], [4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 0, 5, 7]
+[0, 6, 0, 0]
+[2, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[5, 1], [4, 0], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 0, 5, 7]
+[0, 6, 0, 0]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 2], [4, 0], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 0, 5, 7]
+[0, 6, 6, 0]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 0], [3, 1], [4, 3], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 0, 5, 7]
+[6, 6, 6, 0]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 1], [2, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 0]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 3], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[2, 1]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[6, 0], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 0, 0]
+[2, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 0, 0]
+[2, 7, 4, 0]
+Die:2
+A avalabel blocks:
+[[5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 2, 0]
+[2, 7, 4, 0]
+Die:2
+A avalabel blocks:
+[[5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 2, 2]
+[2, 7, 4, 0]
+Die:2
+A avalabel blocks:
+[[6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 2, 2]
+[2, 7, 4, 2]
+Die:1
+A avalabel blocks:
+[[1, 1], [2, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 1, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 2, 2]
+[2, 7, 4, 2]
+Die:6
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:1
+You rolled:1
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 1, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[4, 3], [4, 1], [3, 2], [5, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [5, 0], [5, 1], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 0, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [3, 1], [5, 0], [5, 1], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 0, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 1], [1, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 0, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[4, 1], [3, 2], [5, 2], [3, 3], [5, 3]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[1, 1], [1, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 0, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[5, 0], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 0, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 5]
+Die:2
+A avalabel blocks:
+[[1, 2], [1, 2], [2, 1]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 0, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 5]
+Die:4
+A avalabel blocks:
+[[2, 1], [3, 2]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[0, 0, 0, 0]
+[0, 0, 0, 5]
+New num:6
+A avalabel blocks:
+[[5, 0], [6, 0], [6, 1]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[6, 0, 0, 0]
+[0, 0, 0, 5]
+Die:5
+A avalabel blocks:
+[[6, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 2, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 4, 7]
+[7, 0, 0, 0]
+[7, 1, 1, 1]
+[6, 0, 0, 0]
+[0, 0, 5, 5]
+Die:2
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:3
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:6
+You rolled:6
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 0, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 6]
+New num:5
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 0], [3, 1], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [7, 0]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 5, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 6]
+New num:2
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 2], [3, 0], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [7, 0]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 5, 0]
+[0, 0, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 6]
+Die:2
+A avalabel blocks:
+[[3, 0], [5, 0]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 5, 0]
+[2, 0, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 6]
+Die:6
+A avalabel blocks:
+[[7, 1], [6, 2]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 5, 0]
+[2, 0, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 6, 6]
+New num:3
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 2], [3, 2], [4, 2], [5, 2], [6, 0]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[0, 5, 0]
+[2, 0, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 6, 6]
+Die:6
+A avalabel blocks:
+[[7, 0], [6, 1], [6, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[0, 5, 0]
+[2, 0, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[6, 6, 6]
+Die:5
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1], [3, 1]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[0, 5, 5]
+[2, 0, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[6, 6, 6]
+Die:2
+A avalabel blocks:
+[[3, 1], [2, 0], [5, 0]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[0, 5, 5]
+[2, 2, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[6, 6, 6]
+Die:5
+A avalabel blocks:
+[[2, 0], [1, 1], [1, 2], [3, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[5, 5, 5]
+[2, 2, 0]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[6, 6, 6]
+Die:2
+A avalabel blocks:
+[[3, 2], [5, 0]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[6, 6, 6]
+New num:1
+A avalabel blocks:
+[[5, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 1]
+[0, 0, 0]
+[6, 6, 6]
+Die:6
+A avalabel blocks:
+[[6, 0], [6, 1], [6, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 0, 0]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[6, 6, 6]
+Die:5
+A avalabel blocks:
+[[1, 1], [1, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 5, 0]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[6, 6, 6]
+Die:5
+A avalabel blocks:
+[[1, 2], [1, 2]]
+South Western Tower
+---------------------
+[7, 3, 0]
+[7, 5, 5]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[6, 6, 6]
+Die:3
+A avalabel blocks:
+[[0, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 5, 5]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 1]
+[6, 0, 0]
+[6, 6, 6]
+Die:6
+A avalabel blocks:
+[[6, 1], [5, 0], [6, 1], [6, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 5, 5]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 0]
+[0, 7, 1]
+[6, 6, 0]
+[6, 6, 6]
+Die:1
+A avalabel blocks:
+[[4, 2], [6, 2]]
+South Western Tower
+---------------------
+[7, 3, 3]
+[7, 5, 5]
+[5, 5, 5]
+[2, 2, 2]
+[2, 7, 1]
+[0, 7, 1]
+[6, 6, 0]
+[6, 6, 6]
+Die:3
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:4
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+The Eastern Towertook a hit!
+[7, 7, 0, 7]
+[7, 1, 1, 7]
+[3, 3, 0, 7]
+[3, 5, 5, 7]
+[6, 6, 6, 6]
+[2, 2, 2, 2]
+[2, 7, 4, 2]
+Today you are going to search
+You rolled:[5, 4]
+Grid:
+ [0, 0, 0]
+-[5, 0, 0]
+Remaining die:4
+Grid:
+ [0, 0, 4]
+-[5, 0, 0]
+You rolled:[3, 6]
+The first die:3
+Grid:
+ [0, 0, 4]
+-[5, 0, 3]
+Remaining die:6
+Grid:
+ [6, 0, 4]
+-[5, 0, 3]
+You rolled:[6, 3]
+The first die:6
+Grid:
+ [6, 0, 4]
+-[5, 6, 3]
+Grid:
+ [6, 3, 4]
+-[5, 6, 3]
+Grid complete.
+2
+Result:Track Beast
+Track Beast
+HP: 10
+You rolled:[1, 5]
+The first die:1
+Grid:
+ [0, 0, 0]
+-[1, 0, 0]
+Remaining die:5
+Grid:
+ [0, 0, 0]
+-[1, 0, 5]
+You rolled:[6, 5]
+The first die:6
+Grid:
+ [0, 0, 6]
+-[1, 0, 5]
+Remaining die:5
+Your score is 45
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:5
+You rolled:5
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 0], [3, 1], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[4, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[4, 1], [3, 0], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [4, 3], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[3, 0, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [1, 1], [4, 3], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 0, 7]
+[3, 0, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 0, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 0, 1, 7]
+[3, 5, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[1, 1], [3, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 5, 1, 7]
+[3, 5, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[4, 3], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 5, 1, 7]
+[3, 5, 5, 7]
+[0, 0, 0, 7]
+[4, 4, 0, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[3, 0], [5, 0], [4, 2], [3, 1], [5, 1]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 5, 1, 7]
+[3, 5, 5, 7]
+[4, 0, 0, 7]
+[4, 4, 0, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[3, 1], [5, 0], [4, 2], [3, 1], [5, 1]]
+Eastern Tower
+---------------------
+[7, 7, 1, 7]
+[7, 5, 1, 7]
+[3, 5, 5, 7]
+[4, 4, 0, 7]
+[4, 4, 0, 2]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:3
+You rolled:3
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 3, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 1], [2, 1], [3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 3, 7]
+[7, 0, 0, 7]
+[7, 0, 1, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 1], [2, 1], [4, 1], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 3, 7]
+[7, 0, 0, 7]
+[7, 0, 1, 0]
+[7, 0, 0, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:5
+A avalabel blocks:
+[[4, 2], [3, 3], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 3, 7]
+[7, 0, 0, 7]
+[7, 0, 1, 0]
+[7, 0, 5, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[3, 3], [3, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 3, 7]
+[7, 0, 0, 7]
+[7, 0, 1, 1]
+[7, 0, 5, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[3, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 3, 7]
+[7, 0, 0, 7]
+[7, 1, 1, 1]
+[7, 0, 5, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[1, 1], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 0, 0, 7]
+[7, 1, 1, 1]
+[7, 0, 5, 5]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:4
+A avalabel blocks:
+[[5, 0], [5, 1], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 0, 0, 7]
+[7, 1, 1, 1]
+[7, 0, 5, 5]
+[4, 0, 0, 0]
+[0, 0, 0, 0]
+New num:2
+A avalabel blocks:
+[[6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 0, 0, 7]
+[7, 1, 1, 1]
+[7, 0, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 0, 0]
+New num:6
+A avalabel blocks:
+[[6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 0, 0, 7]
+[7, 1, 1, 1]
+[7, 0, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 0, 6]
+Die:5
+A avalabel blocks:
+[[4, 1], [5, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 0, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 0, 6]
+Die:1
+A avalabel blocks:
+[[2, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 1, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 0, 6]
+Die:6
+A avalabel blocks:
+[[6, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 3, 3, 7]
+[7, 1, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 6, 6]
+Die:3
+A avalabel blocks:
+[[0, 1], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 3, 0, 7]
+[7, 3, 3, 7]
+[7, 1, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 6, 6]
+Die:3
+A avalabel blocks:
+[[0, 2], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 3, 3, 7]
+[7, 3, 3, 7]
+[7, 1, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 0, 0]
+[0, 2, 6, 6]
+Die:2
+A avalabel blocks:
+[[6, 0], [5, 1]]
+Southern Tower
+---------------------
+[7, 3, 3, 7]
+[7, 3, 3, 7]
+[7, 1, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 0, 0]
+[2, 2, 6, 6]
+Die:6
+A avalabel blocks:
+[[5, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 3, 3, 7]
+[7, 3, 3, 7]
+[7, 1, 0, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 6, 0]
+[2, 2, 6, 6]
+Die:3
+A avalabel blocks:
+[[2, 2]]
+Southern Tower
+---------------------
+[7, 3, 3, 7]
+[7, 3, 3, 7]
+[7, 1, 3, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 6, 0]
+[2, 2, 6, 6]
+Die:1
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:3
+The Giant of the Peaks is attacking the Southern Tower
+The Southern Towertook a hit!
+[7, 0, 3, 7]
+[7, 3, 3, 7]
+[7, 1, 3, 7]
+[7, 1, 1, 1]
+[7, 5, 5, 5]
+[4, 0, 6, 0]
+[2, 2, 6, 6]
+Today you are going to search
+You rolled:[5, 4]
+Grid:
+ [0, 0, 0]
+-[0, 0, 5]
+Remaining die:4
+Grid:
+ [0, 0, 0]
+-[0, 4, 5]
+You rolled:[4, 2]
+The first die:4
+Your score is 30
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to build
+New num:1
+You rolled:1
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 1, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 1, 1, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 2], [3, 0], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [4, 2], [4, 3], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 0, 4, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 2], [5, 1], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 2, 7]
+[7, 0, 0, 7]
+[0, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 0, 4, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[2, 0], [1, 1], [3, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 2, 7]
+[7, 0, 0, 7]
+[1, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 0, 4, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 1], [3, 0], [5, 0]]
+Eastern Tower
+---------------------
+[7, 7, 2, 7]
+[7, 0, 0, 7]
+[1, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 3, 4, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 2, 7]
+[7, 0, 0, 7]
+[1, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 3, 4, 0]
+[0, 0, 0, 6]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[3, 0], [1, 1], [3, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 2, 7]
+[7, 1, 0, 7]
+[1, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 3, 4, 0]
+[0, 0, 0, 6]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 2, 7]
+[7, 1, 2, 7]
+[1, 1, 1, 7]
+[0, 0, 0, 7]
+[3, 3, 4, 0]
+[0, 0, 0, 6]
+[0, 7, 0, 0]
+Die:2
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:6
+You rolled:6
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [3, 1], [3, 3], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 3]
+[0, 0, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [3, 1], [3, 3], [4, 1], [4, 2], [5, 0], [5, 1], [6, 0], [6, 1], [6, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 0, 3]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [3, 1], [3, 3], [4, 2], [6, 0], [6, 2]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 0, 3]
+[0, 0, 0, 0]
+Die:5
+A avalabel blocks:
+[[0, 2], [1, 1]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 0, 3]
+[0, 0, 0, 0]
+New num:4
+A avalabel blocks:
+[[3, 1], [3, 3], [4, 2], [6, 0], [6, 2]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 4, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 0, 3]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[5, 2], [5, 0], [4, 1], [6, 1]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 4, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[2, 1], [1, 2], [3, 2]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 0, 0, 7]
+[7, 6, 6, 7]
+[7, 4, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:5
+A avalabel blocks:
+[[1, 1], [1, 2]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 5, 0, 7]
+[7, 6, 6, 7]
+[7, 4, 0, 0]
+[7, 0, 0, 0]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 3], [6, 3]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 5, 0, 7]
+[7, 6, 6, 7]
+[7, 4, 0, 0]
+[7, 0, 0, 3]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:5
+A avalabel blocks:
+[[1, 2], [1, 2]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 5, 5, 7]
+[7, 6, 6, 7]
+[7, 4, 0, 0]
+[7, 0, 0, 3]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[3, 2]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 5, 5, 7]
+[7, 6, 6, 7]
+[7, 4, 6, 0]
+[7, 0, 0, 3]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 2], [3, 3], [6, 3]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 5, 5, 7]
+[7, 6, 6, 7]
+[7, 4, 6, 0]
+[7, 0, 3, 3]
+[0, 1, 1, 3]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[5, 0], [4, 1], [6, 1], [6, 2]]
+Southern Tower
+---------------------
+[7, 5, 5, 7]
+[7, 5, 5, 7]
+[7, 6, 6, 7]
+[7, 4, 6, 0]
+[7, 0, 3, 3]
+[0, 1, 1, 3]
+[0, 0, 1, 0]
+Die:5
+No available blocks.
+=======================
+HP: 10
+Doubt: 0
+/////////////////////////////////////////////
+DAY:3
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:5
+You rolled:5
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 0]
+[0, 5, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 2], [3, 0], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 2]
+[0, 5, 0]
+[0, 0, 0]
+[0, 7, 0]
+[0, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 1], [3, 0], [3, 2], [4, 0], [4, 2], [5, 0], [5, 2], [6, 0], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 0, 2]
+[0, 5, 0]
+[0, 0, 0]
+[0, 7, 0]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:2
+A avalabel blocks:
+[[1, 1], [0, 2], [2, 2]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 2, 2]
+[0, 5, 0]
+[0, 0, 0]
+[0, 7, 0]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[4, 0], [6, 0]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 2, 2]
+[0, 5, 0]
+[0, 0, 0]
+[4, 7, 0]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[3, 0], [6, 0]]
+South Western Tower
+---------------------
+[7, 0, 0]
+[7, 2, 2]
+[0, 5, 0]
+[4, 0, 0]
+[4, 7, 0]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 1], [0, 2], [2, 2]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[0, 5, 0]
+[4, 0, 0]
+[4, 7, 0]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 2], [2, 0], [3, 1]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[0, 5, 5]
+[4, 0, 0]
+[4, 7, 0]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+New num:1
+A avalabel blocks:
+[[4, 2], [5, 2], [6, 1], [6, 2], [7, 0], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[0, 5, 5]
+[4, 0, 0]
+[4, 7, 1]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 0], [3, 1], [3, 2]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[5, 5, 5]
+[4, 0, 0]
+[4, 7, 1]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[3, 1], [6, 0]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 0]
+[4, 7, 1]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:1
+A avalabel blocks:
+[[3, 2], [5, 2]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 1]
+[4, 7, 1]
+[4, 7, 0]
+[0, 0, 0]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[6, 0]]
+South Western Tower
+---------------------
+[7, 2, 0]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 1]
+[4, 7, 1]
+[4, 7, 0]
+[4, 0, 0]
+[0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 2], [0, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 1]
+[4, 7, 1]
+[4, 7, 0]
+[4, 0, 0]
+[0, 0, 0]
+New num:3
+A avalabel blocks:
+[[6, 2], [7, 1], [7, 2]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 1]
+[4, 7, 1]
+[4, 7, 0]
+[4, 0, 3]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[6, 1], [7, 0]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 1]
+[4, 7, 1]
+[4, 7, 0]
+[4, 4, 3]
+[0, 0, 0]
+Die:4
+A avalabel blocks:
+[[7, 0], [7, 1]]
+South Western Tower
+---------------------
+[7, 2, 2]
+[7, 2, 2]
+[5, 5, 5]
+[4, 4, 1]
+[4, 7, 1]
+[4, 7, 0]
+[4, 4, 3]
+[4, 0, 0]
+Die:5
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:4
+Today you are going to search
+You rolled:[5, 1]
+Grid:
+ [0, 0, 0]
+-[0, 5, 0]
+Remaining die:1
+Grid:
+ [0, 0, 0]
+-[1, 5, 0]
+You rolled:[6, 6]
+The first die:6
+Your score is 45
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:6
+You rolled:6
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 2], [2, 0], [2, 2], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[0, 2], [2, 2], [3, 2], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 0, 7]
+[0, 0, 0, 7]
+[5, 0, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 1], [2, 0], [4, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 0, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[1, 2], [2, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 6, 7]
+[0, 0, 0, 7]
+[5, 5, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[2, 1], [0, 2], [2, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 6, 7]
+[0, 6, 0, 7]
+[5, 5, 0, 7]
+[0, 1, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[4, 3], [5, 0], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 6, 7]
+[0, 6, 0, 7]
+[5, 5, 0, 7]
+[0, 1, 0, 4]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[4, 2], [4, 0], [5, 1]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 6, 7]
+[0, 6, 0, 7]
+[5, 5, 0, 7]
+[0, 1, 1, 4]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[4, 0], [5, 1], [3, 2], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 6, 6, 7]
+[0, 6, 0, 7]
+[5, 5, 0, 7]
+[1, 1, 1, 4]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[0, 2], [2, 2], [2, 2], [2, 0]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[0, 6, 0, 7]
+[5, 5, 0, 7]
+[1, 1, 1, 4]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[2, 0], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[5, 6, 0, 7]
+[5, 5, 0, 7]
+[1, 1, 1, 4]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:1
+A avalabel blocks:
+[[5, 0], [5, 1], [3, 2], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[5, 6, 0, 7]
+[5, 5, 0, 7]
+[1, 1, 1, 4]
+[1, 0, 0, 0]
+[0, 7, 0, 0]
+Die:5
+A avalabel blocks:
+[[3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[5, 6, 0, 7]
+[5, 5, 5, 7]
+[1, 1, 1, 4]
+[1, 0, 0, 0]
+[0, 7, 0, 0]
+New num:2
+A avalabel blocks:
+[[6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[5, 6, 0, 7]
+[5, 5, 5, 7]
+[1, 1, 1, 4]
+[1, 0, 0, 0]
+[0, 7, 2, 0]
+Die:2
+A avalabel blocks:
+[[6, 3], [5, 2]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[5, 6, 0, 7]
+[5, 5, 5, 7]
+[1, 1, 1, 4]
+[1, 0, 0, 0]
+[0, 7, 2, 2]
+Die:4
+A avalabel blocks:
+[[5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 6, 7]
+[7, 6, 6, 7]
+[5, 6, 0, 7]
+[5, 5, 5, 7]
+[1, 1, 1, 4]
+[1, 0, 0, 4]
+[0, 7, 2, 2]
+New num:3
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:4
+You rolled:4
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 1], [0, 2], [1, 1], [1, 2], [2, 1], [2, 2], [3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 1], [5, 2], [5, 3], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 1], [2, 1], [3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 1], [5, 2], [5, 3], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+Die:4
+A avalabel blocks:
+[[6, 1], [5, 0]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 3, 0, 0]
+[0, 0, 0, 0]
+[4, 4, 0, 0]
+New num:2
+A avalabel blocks:
+[[0, 1], [2, 1], [3, 2], [3, 3], [4, 3], [5, 2], [5, 3], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 2, 0]
+[7, 3, 0, 0]
+[0, 0, 0, 0]
+[4, 4, 0, 0]
+Die:6
+A avalabel blocks:
+[[1, 1], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 6, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 2, 0]
+[7, 3, 0, 0]
+[0, 0, 0, 0]
+[4, 4, 0, 0]
+Die:4
+A avalabel blocks:
+[[5, 0], [6, 2], [5, 1]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 6, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 2, 0]
+[7, 3, 0, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+Die:2
+A avalabel blocks:
+[[3, 3], [3, 1], [2, 2], [4, 2]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 6, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 2, 2]
+[7, 3, 0, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+Die:6
+A avalabel blocks:
+[[0, 1], [2, 1], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 6, 0, 7]
+[7, 6, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 2, 2]
+[7, 3, 0, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+Die:3
+A avalabel blocks:
+[[4, 2], [3, 1], [5, 1]]
+Southern Tower
+---------------------
+[7, 6, 0, 7]
+[7, 6, 6, 7]
+[7, 0, 0, 7]
+[7, 0, 2, 2]
+[7, 3, 3, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+Die:3
+A avalabel blocks:
+[[3, 1], [5, 1], [4, 3], [5, 2]]
+Southern Tower
+---------------------
+[7, 6, 0, 7]
+[7, 6, 6, 7]
+[7, 0, 0, 7]
+[7, 3, 2, 2]
+[7, 3, 3, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+Die:3
+A avalabel blocks:
+[[2, 1], [5, 1], [4, 3], [5, 2]]
+Southern Tower
+---------------------
+[7, 6, 0, 7]
+[7, 6, 6, 7]
+[7, 3, 0, 7]
+[7, 3, 2, 2]
+[7, 3, 3, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+Die:2
+A avalabel blocks:
+[[2, 2], [4, 3]]
+Southern Tower
+---------------------
+[7, 6, 0, 7]
+[7, 6, 6, 7]
+[7, 3, 2, 7]
+[7, 3, 2, 2]
+[7, 3, 3, 0]
+[4, 0, 0, 0]
+[4, 4, 0, 0]
+New num:1
+A avalabel blocks:
+[[5, 3], [6, 3]]
+Southern Tower
+---------------------
+[7, 6, 0, 7]
+[7, 6, 6, 7]
+[7, 3, 2, 7]
+[7, 3, 2, 2]
+[7, 3, 3, 0]
+[4, 0, 0, 1]
+[4, 4, 0, 0]
+Die:6
+A avalabel blocks:
+[[0, 2], [0, 2]]
+Southern Tower
+---------------------
+[7, 6, 6, 7]
+[7, 6, 6, 7]
+[7, 3, 2, 7]
+[7, 3, 2, 2]
+[7, 3, 3, 0]
+[4, 0, 0, 1]
+[4, 4, 0, 0]
+Die:2
+A avalabel blocks:
+[[4, 3]]
+Southern Tower
+---------------------
+[7, 6, 6, 7]
+[7, 6, 6, 7]
+[7, 3, 2, 7]
+[7, 3, 2, 2]
+[7, 3, 3, 2]
+[4, 0, 0, 1]
+[4, 4, 0, 0]
+Die:2
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:3
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 4
+Today you are going to search
+You rolled:[6, 5]
+Grid:
+ [6, 0, 0]
+-[0, 0, 0]
+Remaining die:5
+Your score is 30
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:2
+You rolled:2
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 2], [3, 0], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:3
+A avalabel blocks:
+[[3, 0], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 0, 3, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[3, 1], [2, 2], [4, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 2, 0, 7]
+[0, 3, 3, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:3
+A avalabel blocks:
+[[3, 0], [4, 1], [2, 2], [4, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 2, 0, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+Die:4
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 2, 0, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 0]
+New num:5
+A avalabel blocks:
+[[4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 2, 0, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 0]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+New num:6
+A avalabel blocks:
+[[4, 3], [5, 2], [5, 3], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 2, 0, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 6]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[2, 2], [2, 0], [1, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 2, 2, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 6]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[2, 0], [1, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[2, 2, 2, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 6]
+[5, 0, 0, 0]
+[0, 7, 0, 0]
+New num:1
+A avalabel blocks:
+[[5, 2], [6, 2], [6, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[2, 2, 2, 7]
+[3, 3, 3, 7]
+[0, 0, 0, 6]
+[5, 0, 1, 0]
+[0, 7, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[2, 2, 2, 7]
+[3, 3, 3, 7]
+[0, 0, 6, 6]
+[5, 0, 1, 0]
+[0, 7, 0, 0]
+Die:2
+A avalabel blocks:
+[[1, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 2, 4, 7]
+[2, 2, 2, 7]
+[3, 3, 3, 7]
+[0, 0, 6, 6]
+[5, 0, 1, 0]
+[0, 7, 0, 0]
+Die:4
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:2
+Today you are going to build
+New num:2
+You rolled:2
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:3
+A avalabel blocks:
+[[0, 1], [2, 1], [3, 1], [3, 2], [3, 3], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:6
+A avalabel blocks:
+[[0, 1], [2, 1], [4, 1], [4, 3], [5, 0], [5, 1], [5, 2], [5, 3], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 0]
+[7, 0, 0, 6]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 2], [3, 3], [5, 3]]
+Southern Tower
+---------------------
+[7, 0, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 0]
+[7, 0, 6, 6]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:5
+A avalabel blocks:
+[[0, 1], [2, 1], [5, 0], [5, 1], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 0]
+[7, 0, 6, 6]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:3
+A avalabel blocks:
+[[3, 3], [3, 1], [2, 2]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 0, 0, 7]
+[7, 0, 3, 3]
+[7, 0, 6, 6]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:4
+A avalabel blocks:
+[[2, 1], [5, 0], [5, 1], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 4, 0, 7]
+[7, 0, 3, 3]
+[7, 0, 6, 6]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[4, 1], [5, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 4, 0, 7]
+[7, 0, 3, 3]
+[7, 6, 6, 6]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+New num:1
+A avalabel blocks:
+[[5, 0], [6, 0], [6, 1], [6, 2], [6, 3]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 4, 0, 7]
+[7, 0, 3, 3]
+[7, 6, 6, 6]
+[1, 0, 0, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[5, 1], [6, 0]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 4, 0, 7]
+[7, 0, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 0, 0]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[3, 1], [5, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 0, 2, 7]
+[7, 4, 0, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 0, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[1, 1], [0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 2, 2, 7]
+[7, 4, 0, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 0, 0]
+[0, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[5, 2], [5, 3]]
+Southern Tower
+---------------------
+[7, 5, 0, 7]
+[7, 2, 2, 7]
+[7, 4, 0, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 6, 0]
+[0, 0, 0, 0]
+Die:2
+A avalabel blocks:
+[[0, 2], [2, 2]]
+Southern Tower
+---------------------
+[7, 5, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 0, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 6, 0]
+[0, 0, 0, 0]
+Die:1
+A avalabel blocks:
+[[6, 0], [6, 1]]
+Southern Tower
+---------------------
+[7, 5, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 0, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 6, 0]
+[1, 0, 0, 0]
+Die:6
+A avalabel blocks:
+[[5, 3], [5, 3], [6, 2]]
+Southern Tower
+---------------------
+[7, 5, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 0, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 6, 6]
+[1, 0, 0, 0]
+Die:4
+A avalabel blocks:
+[[2, 2]]
+Southern Tower
+---------------------
+[7, 5, 2, 7]
+[7, 2, 2, 7]
+[7, 4, 4, 7]
+[7, 6, 3, 3]
+[7, 6, 6, 6]
+[1, 1, 6, 6]
+[1, 0, 0, 0]
+Die:4
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:3
+The Giant of the Peaks is attacking the Southern Tower
+The Southern Towerwas destroyed!
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 7]
+[7, 0, 0, 0]
+[7, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 3
+/////////////////////////////////////////////
+DAY:4
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 4
+Today you are going to search
+You rolled:[6, 1]
+Grid:
+ [0, 0, 0]
+-[0, 0, 6]
+Remaining die:1
+Grid:
+ [0, 0, 0]
+-[0, 1, 6]
+You rolled:[1, 6]
+The first die:1
+Your score is 15
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 3]
+Grid:
+ [0, 0, 0]
+-[0, 1, 0]
+Remaining die:3
+Grid:
+ [0, 3, 0]
+-[0, 1, 0]
+You rolled:[4, 2]
+The first die:4
+Grid:
+ [0, 3, 4]
+-[0, 1, 0]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 2]
+Grid:
+ [0, 1, 0]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [0, 1, 0]
+-[2, 0, 0]
+You rolled:[4, 4]
+The first die:4
+Grid:
+ [0, 1, 4]
+-[2, 0, 0]
+Remaining die:4
+Grid:
+ [4, 1, 4]
+-[2, 0, 0]
+You rolled:[2, 4]
+The first die:2
+Grid:
+ [4, 1, 4]
+-[2, 2, 0]
+Grid:
+ [4, 1, 4]
+-[2, 2, 4]
+Grid complete.
+1
+Result:Encounter
+Encounter
+A  Spark Hounds is attacking!
+take damage
+attack beast
+CRITICAL HIT! +1 additional damage to beast
+attack beast
+attack beast
+Victory
+You have slayed the  Spark Hounds
+
+HP: 9
+You rolled:[3, 2]
+The first die:3
+Grid:
+ [0, 0, 0]
+-[0, 3, 0]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to build
+New num:2
+You rolled:2
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+New num:5
+A avalabel blocks:
+[[0, 2], [1, 1], [1, 2], [2, 0], [2, 1], [2, 2], [3, 0], [3, 1], [3, 2], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+New num:6
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 0], [3, 1], [4, 0], [4, 1], [4, 2], [4, 3], [5, 0], [5, 1], [5, 2], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 0, 2]
+Die:2
+A avalabel blocks:
+[[6, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 0, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 2, 2]
+New num:4
+A avalabel blocks:
+[[0, 2], [1, 1], [2, 0], [3, 1], [4, 2], [4, 3], [5, 1], [6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 0, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 2, 2]
+Die:5
+A avalabel blocks:
+[[2, 1], [1, 2], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 0, 7]
+[0, 5, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 2, 2]
+Die:4
+A avalabel blocks:
+[[1, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[0, 5, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 2, 2]
+Die:5
+A avalabel blocks:
+[[2, 0], [1, 1], [3, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 0, 4, 7]
+[5, 5, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 2, 2]
+Die:4
+A avalabel blocks:
+[[1, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 7, 2, 2]
+Die:2
+A avalabel blocks:
+[[5, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[0, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 2, 0]
+[0, 7, 2, 2]
+Die:5
+A avalabel blocks:
+[[3, 0], [3, 1], [3, 2]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 2, 0]
+[0, 7, 2, 2]
+Die:2
+A avalabel blocks:
+[[5, 3], [5, 1], [4, 2], [5, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 2, 2]
+[0, 7, 2, 2]
+New num:1
+A avalabel blocks:
+[[6, 0]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 0, 2, 2]
+[1, 7, 2, 2]
+Die:2
+A avalabel blocks:
+[[5, 1], [4, 2], [4, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 0, 0, 7]
+[6, 0, 0, 0]
+[0, 2, 2, 2]
+[1, 7, 2, 2]
+Die:5
+A avalabel blocks:
+[[3, 1], [3, 2], [3, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 5, 0, 7]
+[6, 0, 0, 0]
+[0, 2, 2, 2]
+[1, 7, 2, 2]
+Die:5
+A avalabel blocks:
+[[3, 2], [3, 2], [4, 1]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 5, 5, 7]
+[6, 0, 0, 0]
+[0, 2, 2, 2]
+[1, 7, 2, 2]
+Die:2
+A avalabel blocks:
+[[5, 0], [4, 1], [4, 2], [4, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 5, 5, 7]
+[6, 0, 0, 0]
+[2, 2, 2, 2]
+[1, 7, 2, 2]
+Die:2
+A avalabel blocks:
+[[4, 1], [4, 2], [4, 3]]
+Eastern Tower
+---------------------
+[7, 7, 4, 7]
+[7, 4, 4, 7]
+[5, 5, 5, 7]
+[5, 5, 5, 7]
+[6, 2, 0, 0]
+[2, 2, 2, 2]
+[1, 7, 2, 2]
+New num:3
+No available blocks.
+=======================
+HP: 10
+Doubt: 2
+/////////////////////////////////////////////
+DAY:2
+Today you are going to search
+You rolled:[2, 6]
+Grid:
+ [0, 0, 2]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [0, 0, 2]
+-[0, 0, 6]
+You rolled:[6, 6]
+The first die:6
+Your score is 15
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 3]
+Grid:
+ [0, 0, 2]
+-[0, 0, 0]
+Remaining die:3
+Grid:
+ [3, 0, 2]
+-[0, 0, 0]
+You rolled:[1, 3]
+The first die:1
+Grid:
+ [3, 0, 2]
+-[0, 1, 0]
+Remaining die:3
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[3, 5]
+Grid:
+ [0, 0, 0]
+-[3, 0, 0]
+Remaining die:5
+Grid:
+ [5, 0, 0]
+-[3, 0, 0]
+You rolled:[4, 3]
+The first die:4
+Grid:
+ [5, 0, 0]
+-[3, 4, 0]
+Remaining die:3
+Grid:
+ [5, 3, 0]
+-[3, 4, 0]
+You rolled:[6, 1]
+The first die:6
+Grid:
+ [5, 3, 6]
+-[3, 4, 0]
+Grid:
+ [5, 3, 6]
+-[3, 4, 1]
+Grid complete.
+1
+Result:Encounter
+Encounter
+A  Spark Hounds is attacking!
+take damage
+attack beast
+take damage
+attack beast
+take damage
+Victory
+You have slayed the  Spark Hounds
+
+HP: 7
+You rolled:[2, 2]
+The first die:2
+Grid:
+ [0, 0, 0]
+-[0, 0, 2]
+Remaining die:2
+Grid:
+ [0, 0, 0]
+-[2, 0, 2]
+You rolled:[5, 2]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 6]
+Grid:
+ [3, 0, 0]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [3, 0, 0]
+-[0, 0, 6]
+You rolled:[5, 6]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 5]
+Grid:
+ [6, 0, 0]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [6, 0, 0]
+-[5, 0, 0]
+You rolled:[4, 6]
+The first die:4
+Grid:
+ [6, 0, 0]
+-[5, 4, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[4, 1]
+Grid:
+ [0, 0, 0]
+-[4, 0, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[2, 1]
+Grid:
+ [0, 0, 2]
+-[0, 0, 0]
+Remaining die:1
+Grid:
+ [0, 0, 2]
+-[0, 1, 0]
+You rolled:[4, 5]
+The first die:4
+Grid:
+ [0, 4, 2]
+-[0, 1, 0]
+Remaining die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 4]
+Grid:
+ [0, 0, 0]
+-[0, 3, 0]
+Remaining die:4
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 3]
+Grid:
+ [0, 0, 0]
+-[0, 0, 6]
+Remaining die:3
+Grid:
+ [0, 0, 3]
+-[0, 0, 6]
+You rolled:[4, 2]
+The first die:4
+Grid:
+ [0, 0, 3]
+-[0, 4, 6]
+Remaining die:2
+Grid:
+ [0, 2, 3]
+-[0, 4, 6]
+You rolled:[6, 6]
+The first die:6
+Grid:
+ [6, 2, 3]
+-[0, 4, 6]
+Grid:
+ [6, 2, 3]
+-[6, 4, 6]
+Grid complete.
+1
+Result:Encounter
+Encounter
+A Hollow Birds is attacking!
+attack beast
+take damage
+attack beast
+Victory
+You have slayed the Hollow Birds
+
+HP: 9
+You rolled:[2, 5]
+The first die:2
+Grid:
+ [0, 0, 0]
+-[0, 0, 2]
+Remaining die:5
+Grid:
+ [5, 0, 0]
+-[0, 0, 2]
+You rolled:[3, 6]
+The first die:3
+Grid:
+ [5, 0, 3]
+-[0, 0, 2]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[5, 4]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [0, 0, 5]
+-[4, 0, 0]
+You rolled:[5, 2]
+The first die:5
+Grid:
+ [0, 5, 5]
+-[4, 0, 0]
+Remaining die:2
+Grid:
+ [0, 5, 5]
+-[4, 2, 0]
+You rolled:[4, 5]
+The first die:4
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 5]
+Grid:
+ [0, 0, 6]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [0, 0, 6]
+-[0, 5, 0]
+You rolled:[5, 5]
+The first die:5
+Grid:
+ [5, 0, 6]
+-[0, 5, 0]
+Remaining die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 2]
+Grid:
+ [0, 0, 1]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [0, 0, 1]
+-[0, 2, 0]
+You rolled:[2, 4]
+The first die:2
+Grid:
+ [0, 2, 1]
+-[0, 2, 0]
+Remaining die:4
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 2]
+Grid:
+ [0, 5, 0]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [0, 5, 2]
+-[0, 0, 0]
+You rolled:[6, 6]
+The first die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 5, 0]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [0, 5, 5]
+-[0, 0, 0]
+You rolled:[3, 5]
+The first die:3
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 2]
+Grid:
+ [0, 0, 1]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [2, 0, 1]
+-[0, 0, 0]
+You rolled:[5, 6]
+The first die:5
+Grid:
+ [2, 0, 1]
+-[0, 5, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[3, 6]
+Grid:
+ [0, 3, 0]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [6, 3, 0]
+-[0, 0, 0]
+You rolled:[6, 1]
+The first die:6
+Grid:
+ [6, 3, 0]
+-[6, 0, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [0, 0, 5]
+-[5, 0, 0]
+You rolled:[1, 2]
+The first die:1
+Grid:
+ [0, 1, 5]
+-[5, 0, 0]
+Remaining die:2
+Grid:
+ [0, 1, 5]
+-[5, 2, 0]
+You rolled:[5, 2]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 3]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:3
+Grid:
+ [0, 0, 5]
+-[0, 3, 0]
+You rolled:[6, 2]
+The first die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 4]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [0, 0, 5]
+-[0, 0, 4]
+You rolled:[5, 4]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 4]
+Grid:
+ [0, 0, 0]
+-[0, 0, 5]
+Remaining die:4
+Grid:
+ [0, 0, 0]
+-[0, 4, 5]
+You rolled:[5, 5]
+The first die:5
+Grid:
+ [5, 0, 0]
+-[0, 4, 5]
+Remaining die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 1]
+Grid:
+ [2, 0, 0]
+-[0, 0, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[4, 5]
+Grid:
+ [0, 0, 0]
+-[0, 4, 0]
+Remaining die:5
+Grid:
+ [5, 0, 0]
+-[0, 4, 0]
+You rolled:[2, 3]
+The first die:2
+Grid:
+ [5, 2, 0]
+-[0, 4, 0]
+Remaining die:3
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[2, 4]
+Grid:
+ [0, 2, 0]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [0, 2, 0]
+-[0, 4, 0]
+You rolled:[5, 2]
+The first die:5
+Grid:
+ [0, 2, 5]
+-[0, 4, 0]
+Remaining die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 4]
+Grid:
+ [0, 6, 0]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [0, 6, 4]
+-[0, 0, 0]
+You rolled:[3, 1]
+The first die:3
+Grid:
+ [0, 6, 4]
+-[0, 3, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[4, 2]
+Grid:
+ [0, 4, 0]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [0, 4, 0]
+-[2, 0, 0]
+You rolled:[1, 3]
+The first die:1
+Grid:
+ [0, 4, 1]
+-[2, 0, 0]
+Remaining die:3
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[6, 6]
+Grid:
+ [0, 0, 6]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [0, 0, 6]
+-[6, 0, 0]
+You rolled:[5, 1]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[3, 6]
+Grid:
+ [0, 0, 3]
+-[0, 0, 0]
+Remaining die:6
+Grid:
+ [0, 0, 3]
+-[6, 0, 0]
+You rolled:[2, 5]
+The first die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 6]
+Grid:
+ [0, 0, 0]
+-[1, 0, 0]
+Remaining die:6
+Grid:
+ [0, 6, 0]
+-[1, 0, 0]
+You rolled:[2, 5]
+The first die:2
+Grid:
+ [0, 6, 0]
+-[1, 2, 0]
+Remaining die:5
+Grid:
+ [0, 6, 5]
+-[1, 2, 0]
+You rolled:[1, 4]
+The first die:1
+Grid:
+ [1, 6, 5]
+-[1, 2, 0]
+Grid:
+ [1, 6, 5]
+-[1, 2, 4]
+Grid complete.
+2
+Result:Track Beast
+Track Beast
+HP: 10
+You rolled:[3, 4]
+The first die:3
+Grid:
+ [0, 0, 3]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [0, 0, 3]
+-[4, 0, 0]
+You rolled:[1, 1]
+The first die:1
+Grid:
+ [0, 0, 3]
+-[4, 1, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Giant of the Peaks is attacking the Southern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 0]
+-[5, 0, 0]
+Remaining die:5
+Grid:
+ [0, 0, 5]
+-[5, 0, 0]
+You rolled:[3, 6]
+The first die:3
+Grid:
+ [0, 3, 5]
+-[5, 0, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 3]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:3
+Grid:
+ [3, 0, 5]
+-[0, 0, 0]
+You rolled:[2, 1]
+The first die:2
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[5, 5]
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:5
+Grid:
+ [0, 0, 5]
+-[5, 0, 0]
+You rolled:[4, 4]
+The first die:4
+Grid:
+ [0, 4, 5]
+-[5, 0, 0]
+Remaining die:4
+Grid:
+ [4, 4, 5]
+-[5, 0, 0]
+You rolled:[6, 5]
+The first die:6
+Grid:
+ [4, 4, 5]
+-[5, 6, 0]
+Grid:
+ [4, 4, 5]
+-[5, 6, 5]
+Grid complete.
+1
+Result:Encounter
+Encounter
+A Hollow Birds is attacking!
+take damage
+attack beast
+attack beast
+Victory
+You have slayed the Hollow Birds
+
+HP: 9
+You rolled:[5, 2]
+The first die:5
+Grid:
+ [0, 0, 5]
+-[0, 0, 0]
+Remaining die:2
+Grid:
+ [0, 0, 5]
+-[2, 0, 0]
+You rolled:[5, 4]
+The first die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The The Burning Man is attacking the South Western Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to rest
+HP= 10
+Doubt increased by 1
+HP: 10
+Doubt: 3
+/////////////////////////////////////////////
+DAY:2
+Today you are going to search
+You rolled:[1, 1]
+Grid:
+ [0, 0, 0]
+-[1, 0, 0]
+Remaining die:1
+Grid:
+ [0, 1, 0]
+-[1, 0, 0]
+You rolled:[3, 6]
+The first die:3
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[2, 1]
+Grid:
+ [0, 2, 0]
+-[0, 0, 0]
+Remaining die:1
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[3, 2]
+Grid:
+ [0, 0, 0]
+-[3, 0, 0]
+Remaining die:2
+Grid:
+ [0, 0, 0]
+-[3, 2, 0]
+You rolled:[6, 3]
+The first die:6
+Grid:
+ [0, 0, 6]
+-[3, 2, 0]
+Remaining die:3
+Grid:
+ [3, 0, 6]
+-[3, 2, 0]
+You rolled:[3, 3]
+The first die:3
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in this region is overcome with rage and immediately descends into the valley to assault the village.
+The Dweller in the Tides is attacking the Eastern Tower
+A hut was destroyed!
+Doubt increased by 2
+Today you are going to search
+You rolled:[3, 5]
+Grid:
+ [0, 0, 3]
+-[0, 0, 0]
+Remaining die:5
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
+Today you are going to search
+You rolled:[1, 4]
+Grid:
+ [0, 0, 1]
+-[0, 0, 0]
+Remaining die:4
+Grid:
+ [0, 0, 1]
+-[4, 0, 0]
+You rolled:[3, 6]
+The first die:3
+Grid:
+ [0, 3, 1]
+-[4, 0, 0]
+Remaining die:6
+Your score is 0
+XXXXXXXXXXXXXXXXXXX TOO MANY ILLEGAL ACTIONS GAME OVER XXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////
+DAY:1
