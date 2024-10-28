@@ -53,7 +53,7 @@ def build_dqn(lr, action_size, input_dims, fc1_dims, fc2_dims):
 
 
 class Agent(object):
-    def __init__(self, alpha, gamma, action_size, epsilon, batch_size, input_dims, epsilon_dec=0.996, epsilon_end=0.01,
+    def __init__(self, alpha, gamma, action_size, epsilon, batch_size, input_dims, epsilon_dec=0.98, epsilon_end=0.01,
                  mem_size=100000, fname='dqn_model.keras'):  #'dqn_model.keras
         self.q_eval = None
         self.action_space = [i for i in range(action_size)]
@@ -81,10 +81,10 @@ class Agent(object):
         if rand < self.epsilon:
             action = np.random.choice(self.action_space)
         else:
-            state = state[0][-1]  # Extract array([0, 10, 0])
-            # Convert to NumPy array with proper dtype and add batch dimension
+            state = state[0][-1]
+
             state = np.array(state, dtype=np.float32)
-            state = np.expand_dims(state, axis=0)  # Shape becomes (1, 3)
+            state = np.expand_dims(state, axis=0)
 
             # Make a prediction
             actions = self.q_eval.predict(state)

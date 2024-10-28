@@ -2,8 +2,7 @@ import random
 import GUI
 from GUI import Storyline
 
-window = GUI.Win(False)
-
+window = GUI.Win(True)
 story = Storyline()
 
 
@@ -88,6 +87,21 @@ class UEBH():
         self.grid = []
         self.beast_attack_range = []
 
+    def reset(self):
+        self.die = 0
+        self.day = 0
+        self.player = Player()
+        self.village = Village()
+        self.Coastal_Caverns = Area("Coastal Caverns")
+        self.Halebeard_Peak = Area("Halebeard Peak")
+        self.The_Scar = Area("The Scar")
+        self.time_track = ["E", " ", "!", "E", " ", "!", "E", " ", "!", "E", " ", "!", "E", "D"]
+        self.time_track_xy = [[602, 41], [583, 41], [583, 57], [583, 76], [602, 85], [621, 86], [621, 103], [602, 107],
+                              [583, 119], [602, 129], [621, 138], [621, 157], [602, 164], [583, 167]]
+        self.search_options = [0, 1, 2, 3, 4, 5]
+        self.build_options = None
+        self.grid = []
+        self.beast_attack_range = []
 
     def set_build_options(self, tn):
         t, coordanates = self.village.towers[tn]
@@ -112,8 +126,6 @@ class UEBH():
         self.Halebeard_Peak.event = []
 
     def tb_attack(self, area2):
-        # while area2.tb_defeated:  #terrible beast defeated
-        #     area2 = select_area()
 
         if not area2.tb_defeated:
             if area2.area_name == "Coastal Caverns":
@@ -159,7 +171,7 @@ class UEBH():
                 # print("A hut was destroyed!")
                 story.write_line("A hut was destroyed!")
 
-                for i, (not_destroyed, coordinates) in enumerate(self.village.huts.items(), start=1):
+                for i,(j, (not_destroyed, coordinates)) in enumerate(self.village.huts.items(), start=1):
                     if not_destroyed:
                         window.check_box(coordinates, "X", "red")
                         self.village.huts[i] = (False, coordinates)
@@ -173,7 +185,8 @@ class UEBH():
             d = self.roll_die()[0]
             if d in [1, 2]:
                 self.Halebeard_Peak.event.append(i)
-                if (i == "Madness") and "Foul Weather" in self.Halebeard_Peak.event and not self.Halebeard_Peak.tb_defeated:
+                if (
+                        i == "Madness") and "Foul Weather" in self.Halebeard_Peak.event and not self.Halebeard_Peak.tb_defeated:
                     # print(
                     #     "A region is affected by both Foul Weather and Madness at the same time, the Terrible Beast in "
                     #     "this region is overcome with rage and immediately descends into the valley to assault the "
@@ -411,7 +424,7 @@ class UEBH():
 
         score += sum(15 for i in self.village.towers_built.values() if i)
         if win:
-            if self.village.huts == 0:
+            if self.village.num_huts_destroyed == 0:
                 score += 50
             score += 5 * self.day
             score += 2 * self.player.hit_points

@@ -4,6 +4,7 @@ from __future__ import print_function
 
 import abc
 import random
+import time
 from time import sleep
 import pygame
 import numpy as np
@@ -53,7 +54,7 @@ class UEBH_env(py_environment.PyEnvironment):
         self._episode_ended = False
 
     def _reset(self):
-        self.game = UEBH.UEBH()
+        self.game.reset()
         self.task_complete = True
         self.player = self.game.player
         self.village = self.game.village
@@ -63,8 +64,8 @@ class UEBH_env(py_environment.PyEnvironment):
         self._state = 0
         # print("\n/////////////////////////////////////////////\nDAY:" + str(self._state + 1))
         story.write_line("/////////////////////////////////////////////\nDAY:" + str(self._state + 1))
-        self.game.event(self._state)
         win.reset()
+        self.game.event(self._state)
         win.check_box(self.game.time_track_xy[self._state], "X", "black")
         self._episode_ended = False
         return ts.restart(self.get_observations())
@@ -233,7 +234,9 @@ class UEBH_env(py_environment.PyEnvironment):
                 reward, discount=1.0)
 
     def illegal_move(self, act):
-        if self.illegal_act_count2 == 30:
+        # return ts.transition(
+        #     self.get_observations(), 0, discount=1.0)
+        if self.illegal_act_count2 == 100:
             self.illegal_act_count = 0
             self.illegal_act_count2 = 0
             self._episode_ended = True
@@ -249,7 +252,7 @@ class UEBH_env(py_environment.PyEnvironment):
             return ts.transition(
                 self.get_observations(), 0, discount=1.0)
         else:
-            if self.illegal_act_count == 10:
+            if self.illegal_act_count == 100:
                 self.illegal_act_count = 0
                 self._episode_ended = True
                 reward = -100 + self.game.calc_score(False)

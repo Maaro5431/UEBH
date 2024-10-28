@@ -3,8 +3,6 @@ import sys
 import datetime
 import fileinput
 
-import pygame
-
 
 def update_window():
     pygame.display.flip()
@@ -57,7 +55,6 @@ class Win():
             self.window_height = 899  # / 1.5
             self.window = pygame.display.set_mode((self.window_width, self.window_height))
             bg_image = pygame.image.load("C:/Users/Maaro/Desktop/Hons Project/UEBH/Board.png")
-
             self.window.blit(bg_image, (0, 0))
 
     def reset(self):
@@ -122,3 +119,5 @@ class Win():
 
             # Control the frame rate
             clock.tick(30)
+
+

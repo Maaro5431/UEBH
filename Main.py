@@ -1,85 +1,39 @@
-#venv\Scripts\python.exe main.py
-from DQN import Agent
+import time
+
 import numpy as np
-import matplotlib.pyplot as plt
 from Game_env import UEBH_env
-from utils import plotLearning
+from keras._tf_keras import keras
+from DQN import Agent
 
-# Create a single figure and axis at the start
-fig, ax = plt.subplots(figsize=(10, 6))
+from numpy import loadtxt
+from keras.api.saving import load_model
+from keras.api.models import Sequential
+from keras.api.layers import Dense, Activation
 
+# load and evaluate a saved model
+from numpy import loadtxt
 
-def plot_illegal_actions_score(illegal_actions, score):
-    episodes = range(1, len(illegal_actions) + 1)
+# load model
+model = load_model('dqn_model2.keras', custom_objects=None, compile=True, safe_mode=True)
 
-    # Plot both illegal actions and score
-    ax.clear()  # Clear previous plot data to save memory
-    ax.plot(episodes, illegal_actions, label='Illegal Actions', color='red', marker='o')
-    ax.plot(episodes, score, label='Score', color='blue', marker='x')
-    ax.set_title('Illegal Actions and Scores Over Training Episodes')
-    ax.set_xlabel('Episode')
-    ax.set_ylabel('Count / Score')
-    ax.grid(True)
-    ax.legend()
-    fig.savefig("illegal_actions_and_scores_plot.png")
+# summarize model.
+model.summary()
+env = UEBH_env()
 
-    # Plot illegal actions only
-    ax.clear()  # Clear data again for the next plot
-    ax.plot(episodes, illegal_actions, label='Illegal Actions', color='red', marker='o')
-    ax.set_title('Illegal Actions Over Training Episodes')
-    ax.set_xlabel('Episode')
-    ax.set_ylabel('Illegal Actions Count')
-    ax.grid(True)
-    ax.legend()
-    fig.savefig("illegal_actions_only_plot.png")
-
-
-if __name__ == "__main__":
-    env = UEBH_env()
-    num_games = 1000
-    action_tensor_spec = env.action_spec()
-    num_actions = action_tensor_spec.maximum - action_tensor_spec.minimum + 1
-    agent = Agent(gamma=0.999, epsilon=1.0, alpha=0.9, input_dims=7, action_size=num_actions, mem_size=10000,
-                  batch_size=64, epsilon_end=0.01)
-
-    scores = []
-    eps_hist = []
-    illegal_action_list = []
-    filename = 'UEBH.png'
-
-    for i in range(num_games):
-        done = False
-        score = 0
-        illegal_act_count =0
-        state = env.reset()
-        observation = state.observation
-        while not done:
-            action = agent.choose_action(state)
-            state = env.step(action)
-            done = state.is_last()
-            if done:
-                illegal_action_list.append(illegal_act_count)
-                print("__________________________________________________________________________________________________________")
-            observation_ = state.observation
-            reward = state.reward
-            if reward in [0,-3]:
-                illegal_act_count+=1
-            score += reward
-            agent.remember(observation, action, reward, observation_, state.step_type)
-            observation = observation_
-            agent.learn()
-        eps_hist.append(agent.epsilon)
-        scores.append(score)
-        avg_score = np.mean(scores[max(0, i - 100):(i + 1)])
-        print('Game: ', i, 'score %.2f' % score, 'average score %.2f ' % avg_score)
-
-        if i % 10 == 0 and i > 0:
-            print("______________________________SAVE______________________________")
-            agent.save_model()
-
-            x = [j + 1 for j in range(i + 1)]
-            plotLearning(x, scores, eps_hist, filename)
-            plot_illegal_actions_score(illegal_action_list, scores)
-
-    x = [i + 1 for i in range(num_games)]
-    plotLearning(x, scores, eps_hist, filename)
+done = False
+num_games = 5
+for i in range(num_games):
+    score = 0
+    state = env.reset()
+    done = False
+    observation = np.expand_dims(np.array(state.observation, dtype=np.float32), axis=0)
+    while not done:
+        actions = model.predict(observation)
+        action = np.argmax(actions)
+        state = env.step(action)
+        observation = np.expand_dims(np.array(state.observation, dtype=np.float32), axis=0)
+        done = state.is_last()
+        reward = state.reward
+        if reward > 1:
+            time.sleep(5)
+        score += reward
